@@ -1,0 +1,33 @@
+/* ── CSS 变量（亮色） ── */
+:root {
+  --paper:        #f7f2e8;
+  --paper-dark:   #ede5d0;
+  --paper-shadow: #c8b89a;
+  --ink:          #2c2416;
+  --ink-light:    #6b5a42;
+  --ink-faint:    #a8957a;
+  --accent:       #8b4513;
+  --accent-light: #c47a3a;
+
+  --csdn:   #fc5531;
+  --zhihu:  #0084ff;
+  --wechat: #07c160;
+
+  --sidebar-w:         240px;
+  --sidebar-collapsed: 60px;
+  --transition:        0.28s cubic-bezier(.4,0,.2,1);
+
+  --font-title: 'Ma Shan Zheng', 'ZCOOL XiaoWei', serif;
+  --font-body:  'Noto Serif SC', 'Songti SC', serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--paper-dark);
+  color: var(--ink);
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}

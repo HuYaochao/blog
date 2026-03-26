@@ -1,0 +1,614 @@
+[
+  {
+    "title": "Claude.ai 聊天 vs Claude Code：20步任务下谁先崩溃？",
+    "articleId": "2247484364_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484364&idx=1&sn=1bac4b97cafa0a80eab76ed8a2fdd619&chksm=c478364af30fbf5c6582a49d7f1e8e865a90f9d0184d226aef8c1e8e8f4a99c174d8b55ee63f#rd",
+    "date": "2026-03-25",
+    "views": "",
+    "summary": "无论哪种模式，20步连续任务都会撞上注意力稀释的墙。区别只在于怎么撞和撞了之后还剩什么。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI知识库到了该还债的时候了——从数据库治理到知识库治理，该补的课一门都没少",
+    "articleId": "2247484360_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484360&idx=1&sn=128fef5742c18fca2039039a2ba50da2&chksm=c478364ef30fbf583f9e4d48d43390ce7d617d81a4596cb28ee8863989f488a8907836377ac3#rd",
+    "date": "2026-03-23",
+    "views": "",
+    "summary": "两年前，所有人都在建知识库。现在，是时候治理它们了。一、两年前的承诺2023年，RAG（检索增强生成）是AI应用层最大的叙事。",
+    "platform": "wechat"
+  },
+  {
+    "title": "2026年，开一家 AI 公司到底要烧多少钱？KIMI2.5万亿参数旗舰模型的全流程成本拆解",
+    "articleId": "2247484356_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484356&idx=1&sn=fe888fb5a4d53d3c88497eb0cc9d7f42&chksm=c4783642f30fbf5445e5f61b4956160a826935cf1b861f78a6779a280e24b366103bfd4d3616#rd",
+    "date": "2026-03-22",
+    "views": "",
+    "summary": "烧了多少、赚了多少、还差多远。这篇文章基于这些审计级数据，试图回答一个具体的问题：如果你今天从零开始，要建一家能训练万亿参数旗舰多模态模型的 AI 公司，入门要多少钱？什么时候能自己养活自己？",
+    "platform": "wechat"
+  },
+  {
+    "title": "用 AI 的公司裁员越狠股价越涨，造 AI 的公司几个月人就翻一倍",
+    "articleId": "2247484351_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484351&idx=1&sn=8a871b1db76334c3190e00ecad0ce59f&chksm=c4783639f30fbf2f95143a3300d7f5f9e27acaedc1b3a7dca54505f73956a05206c457ed96ec#rd",
+    "date": "2026-03-20",
+    "views": "",
+    "summary": "围绕 AI 造东西的在抢人，拿 AI 当工具用的在裁人，被 AI 直接冲击的在等死。 至于你在哪一边——看看你的公司是在 AI 产业链上，还是在产业链外面。",
+    "platform": "wechat"
+  },
+  {
+    "title": "Web Crawling 网络爬虫全景：技术体系、反爬对抗与全链路成本分析",
+    "articleId": "2247484345_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484345&idx=1&sn=9147b6bf1bed2a85fc4088f37eca8c4f&chksm=c478363ff30fbf295566b13100f23521ae118ca74a7638d425cc6193de1a33e41100cb845e0f#rd",
+    "date": "2026-03-19",
+    "views": "",
+    "summary": "爬虫生态数万个工具的繁荣不是技术丰富的标志，而是持续对抗中高损耗率的副产品。爬虫问题的本质不是\"能不能爬到\"，而是全链路成本函数——爬、存、ETL、维护——谁先扛不住。",
+    "platform": "wechat"
+  },
+  {
+    "title": "OpenClaw 是放大器，不是发动机——AI Agent 天花板之前的那个乘数",
+    "articleId": "2247484341_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484341&idx=1&sn=cb12b45274cc766422e439df0899c4d4&chksm=c4783633f30fbf252dd68e7e465107716639a336f69815a05be0d445c9a8565746392e8841ac#rd",
+    "date": "2026-03-18",
+    "views": "",
+    "summary": "2026 年 1 月，一个叫 OpenClaw 的开源项目以 72 小时斩获 60,000 颗 Star 的速度席卷 GitHub。100 天后，它以 250,000+ Star 超越 React 13 年的积累，成为 GitHub 上 Star 数最高的软件项目。",
+    "platform": "wechat"
+  },
+  {
+    "title": "LLM 推理降本的六层技术栈：从硅片到工程的全链路解析——GTC 2026",
+    "articleId": "2247484332_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484332&idx=1&sn=ed39bce2dd9bdab56b80bd517bc0c4f7&chksm=c478362af30fbf3c9e39dd85e7d98a94eed55dc8dc26b24d3ec675ffd11b123a2f8079d8806f#rd",
+    "date": "2026-03-17",
+    "views": "",
+    "summary": "核心论点：LLM 推理成本的急剧下降不是某一项技术的功劳，而是从芯片架构到上层工程的六个独立层次同时发力、乘法",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI LLM 输出水印与反蒸馏：一场不对称的攻防博弈",
+    "articleId": "2247484310_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484310&idx=1&sn=8c91a8fced76ebc09c1f31a2f6ee3519&chksm=c4783610f30fbf063c626ccaeb63e9431cc3e1d5b74acc81b78d64caf314f6fffacfb9320496#rd",
+    "date": "2026-03-13",
+    "views": "",
+    "summary": "核心论点是那个根本矛盾：水印信号嵌入在 token 选择层，而蒸馏提取的知识在语义层——两者抽象层次不同，这决定了水印作为反蒸馏屏障的天花板。",
+    "platform": "wechat"
+  },
+  {
+    "title": "架构图看着简单，代码却写不完——AI 为什么用 Python 不用 Java",
+    "articleId": "2247484306_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484306&idx=1&sn=13ca8ac8674499ecbdd4dd20a6681a13&chksm=c4783614f30fbf0200d61fcb3f4e1186b233d712a99eecc4e723a9856f5f0beae3fa34f3c731#rd",
+    "date": "2026-03-10",
+    "views": "",
+    "summary": "一条完整的 Why 链：从模块视图的欺骗性到复杂度守恒，从 Python vs Java 的真实权衡到组织失灵",
+    "platform": "wechat"
+  },
+  {
+    "title": "如何看待AI文章的截图清一色来自X平台？AI行业正在丧失自己的话语权",
+    "articleId": "2247484302_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484302&idx=1&sn=778fbb0937d6e6397f43fdb0e0469040&chksm=c4783608f30fbf1ee69e45b3f1d4210985ca7fbd9b9816f050d235df36f2cbd95cf5cd5e04be#rd",
+    "date": "2026-03-06",
+    "views": "",
+    "summary": "打开任何一篇国内AI行业文章，你大概率会看到：一张X（原Twitter）截图，配上翻译和解读。",
+    "platform": "wechat"
+  },
+  {
+    "title": "没有阈值的深刻，就是高级噪声——从\"经济脆弱论\"的集体失灵，看AI如何批量制造不可证伪的正确",
+    "articleId": "2247484297_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484297&idx=1&sn=156e2cfe81d3961053ac851c7b7eddbe&chksm=c478360ff30fbf199ec9ac48c0acd6e7de393fb5f689aaa58f24784aeb0ac5d83405de0ed174#rd",
+    "date": "2026-03-05",
+    "views": "",
+    "summary": "2026年2月28日，美以联合打击伊朗。霍尔木兹海峡停运，中东航线瘫痪，伊朗最高领袖被击杀。",
+    "platform": "wechat"
+  },
+  {
+    "title": "Claude技能创建器指南_SKILL中文版 && 本地简要版",
+    "articleId": "2247484293_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484293&idx=1&sn=68d1ae91dd879ca597b67aaea3a709d8&chksm=c4783603f30fbf153dd46a225a07c6b58d6d39f389ff850c26ac06882c0215bec8413b3d8827#rd",
+    "date": "2026-03-02",
+    "views": "",
+    "summary": "本文档介绍了Claude技能创建器的完整工作流程和文件结构。主要内容包括：1. 核心文件SKILL.md作为主指南，包含技能创建流程、编写规范和评估方法；2. 评估系统由agents子目录的评分标准、对比测试和分析工具组成，配合eval-viewer展示测试结果；",
+    "platform": "wechat"
+  },
+  {
+    "title": "知识精炼引擎：别再把原文丢进知识库了",
+    "articleId": "2247484284_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484284&idx=1&sn=3b0dc7343887ad0ac4266ed680969b6f&chksm=c47836faf30fbfec1ef99daa086098a2785348e24e13bb92607577267118098c8b97ee31116e#rd",
+    "date": "2026-02-28",
+    "views": "",
+    "summary": "大多数企业知识库的失败，不是检索算法的问题，而是入库内容的问题。",
+    "platform": "wechat"
+  },
+  {
+    "title": "当 AI 学会黑客：从墨西哥政府 150GB 数据泄露看供应链安全的生死线",
+    "articleId": "2247484280_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484280&idx=1&sn=a0f28bb85a5f14a91091c1850d4aebe6&chksm=c47836fef30fbfe86b96ae6fbda3e5b12923578a404e148ea44f5ec14a66896d92cb0eaa2f8a#rd",
+    "date": "2026-02-26",
+    "views": "",
+    "summary": "2026年2月25日，Bloomberg 披露了一起震动全球安全圈的事件：一名身份不明的攻击者利用 AI 聊天",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI浏览器自动化：企业与个人的本质差异，以及被忽视的架构陷阱",
+    "articleId": "2247484276_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484276&idx=1&sn=7c3bacc1f27b465c353a57f53c681284&chksm=c47836f2f30fbfe46c4fbae2c2b7d35b0bf07afbc6fef80f726da06bd93023d9c47c11d8b583#rd",
+    "date": "2026-02-24",
+    "views": "",
+    "summary": "AI浏览器自动化正成为热门赛道，但多数讨论混淆了企业与个人场景的本质差异。个人用户面对的是不可控的第三方网站，AI的灵活性是刚需；而企业拥有自身系统的后端权限，将自动化下沉到API层才是正解。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI最想攻破的城墙：企业软件的护城河从来不是功能，是嵌入深度",
+    "articleId": "2247484269_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484269&idx=1&sn=093cbb438ff5f7f22afbf64479171711&chksm=c47836ebf30fbffd88e124ee6037bd1a26ceac691e74bf7fd2b4d00728f60eb2ff776b9dd952#rd",
+    "date": "2026-02-15",
+    "views": "",
+    "summary": "2025年，AI Agent成为企业软件领域最热的叙事。",
+    "platform": "wechat"
+  },
+  {
+    "title": "Palantir：一个被误读的数据整合平台",
+    "articleId": "2247484259_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484259&idx=1&sn=9ae170f5841fe5a9ae0bafa26c2663e5&chksm=c47836e5f30fbff3476c13346267285a13a138af76ec05e646bd7dc553e8bc58802b7fd4d0de#rd",
+    "date": "2026-02-04",
+    "views": "",
+    "summary": "有人认为它是无所不能的\"数据操作系统\"，有人认为它能替代企业现有的业务系统，还有人把它的\"本体\"（Ontology）概念说得神乎其神",
+    "platform": "wechat"
+  },
+  {
+    "title": "Skills 不是知识库的替代品：一文讲清两者的本质边界",
+    "articleId": "2247484255_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484255&idx=1&sn=a077e1fd620e8f62f9da3e3b81b06d68&chksm=c47836d9f30fbfcf0fb23295e05a245080317558e8ef516e228a0684ecd8451b24d556cc6332#rd",
+    "date": "2026-02-03",
+    "views": "",
+    "summary": "Anthropic 推出的 Agent Skills 让很多人误以为可以\"替代传统 RAG\"。但 Skills替代的是检索策略，不是知识库本身。本文从程序性知识与陈述性知识的认知科学视角，讲清 Skills和知识库各自的适用场景，以及如何在实际项目中做出正确的技术选型。",
+    "platform": "wechat"
+  },
+  {
+    "title": "多模态大模型的下一步：从\"万能选手\"到\"专家协作",
+    "articleId": "2247484251_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484251&idx=1&sn=b3dd42d1b5da1a9d16c93cf7d7b3cf20&chksm=c47836ddf30fbfcb7564ec778879e520b460c264784fc8e8eb7c87ee5f3e85207829142ae260#rd",
+    "date": "2026-01-30",
+    "views": "",
+    "summary": "当我们谈论万亿参数、30T训练数据时，是否忽略了一个根本问题——这些模型在专业领域的真实能力边界在哪里？",
+    "platform": "wechat"
+  },
+  {
+    "title": "弹性万卡训练：不做英伟达的“完美主义者”，探索基于数据拓扑的容错新范式",
+    "articleId": "2247484247_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484247&idx=1&sn=2ace999dbcc5689e495b8afaf7932c3c&chksm=c47836d1f30fbfc76c266b280e38198f88176df445d4c45158790464e8a42d4508e9291bcd3e#rd",
+    "date": "2026-01-29",
+    "views": "",
+    "summary": "用数据拓扑与邻居估算，重构万卡训练容错范式。",
+    "platform": "wechat"
+  },
+  {
+    "title": "1.7w字。Claude 新宪法claude's constitution（84页）深度解析：AI价值观工程的范式转移（2026年1月21日，这份23000词、84页的文档）",
+    "articleId": "2247484227_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484227&idx=1&sn=d6b0260fcac863e838143339b7bc2c46&chksm=c47836c5f30fbfd3cc006a24235090813f4670c3de035c229f0e97fb449c837cc31971d6b5f8#rd",
+    "date": "2026-01-23",
+    "views": "",
+    "summary": "2026年1月21日，Anthropic在达沃斯世界经济论坛上发布了Claude的新宪法。这份23000词、84页的文档，不是一份简单的规则手册，而是一次对\"如何让AI变得善良\"这个问题的系统性回答。",
+    "platform": "wechat"
+  },
+  {
+    "title": "告别ModelScope魔搭联网依赖！sherpa-onnx + SenseVoice 完全离线语音识别部署指南（2026版，离线语音识别、声纹鉴定、sherpa-onnx）",
+    "articleId": "2247484223_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484223&idx=1&sn=59f0be55b78423338ee7200568f17966&chksm=c47836b9f30fbfaf50d346fe6ead55748b8c695425a907c2daf15998d566e99146c08d799095#rd",
+    "date": "2026-01-21",
+    "views": "",
+    "summary": "本文介绍了完全离线的语音识别解决方案sherpa-onnx，解决了FunASR/SenseVoice等工具必须联网校验的问题。文章比较了不同语音识别技术的演进历程，指出sherpa-onnx作为新一代Kaldi项目，具有完全离线、跨平台支持、体积小等优势。",
+    "platform": "wechat"
+  },
+  {
+    "title": "停止盲目微调：为什么“领域蒸馏”才是企业/领域 AI 的终局？",
+    "articleId": "2247484218_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484218&idx=1&sn=5f5d5a2784f099eccf8dc742c2f51aca&chksm=c47836bcf30fbfaacb500ef5f66c22a498d7247036bb505b629055d946ecffed88b0cde05038#rd",
+    "date": "2026-01-17",
+    "views": "",
+    "summary": "AI落地浪潮中，传统微调方法存在局限性——小模型虽能记忆专业知识，却因\"灾难性遗忘\"导致逻辑能力下降。更优路径是\"大模型+RAG全链路蒸馏\"：通过让大模型生成带完整推理链的答案，让小模型学习思考过程而非仅记忆结果。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI for Science 的“红圈陷阱”：是认知的收缩，还是涌现的前夜？Artificial intelligence tools expand scientists’ impact",
+    "articleId": "2247484214_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484214&idx=1&sn=6279c9d0f363a6a84995c70d47ab2b96&chksm=c47836b0f30fbfa6f49a86dd7fb3109d28753ddc520990ef3e8ddcffd153d79f20cd1f9a9032#rd",
+    "date": "2026-01-15",
+    "views": "",
+    "summary": "AI for Science 的“红圈陷阱”：是认知的收缩，还是涌现的前夜？2026年开年，清华大学与芝加哥大学的一项合作研究震动了学术界。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AGI为什么一定会来？不是技术乐观主义，是结构性必然",
+    "articleId": "2247484209_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484209&idx=1&sn=135c9b093d24f07958f99a01d01de5c7&chksm=c47836b7f30fbfa155ea4172ba549fc4296c3fcba5fe6d76aecd8744f8da70a3004a30886a9a#rd",
+    "date": "2026-01-14",
+    "views": "",
+    "summary": "AGI到来的结构性必然性 AGI的出现并非偶然，而是由三重不可逆动力驱动的必然结果：1）囚徒困境下的军备竞赛，任何单方停止都会处于劣势；2）AI自指效应，AI工具加速AI研发自身；3）闭环形成的路径依赖，每个看似合理的决策都在推进系统闭环。",
+    "platform": "wechat"
+  },
+  {
+    "title": "从V3.2到V4：DeepSeek技术报告拆解 × 从业者防忽悠指南",
+    "articleId": "2247484201_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484201&idx=1&sn=f89202ec24533e145e464dea4f754fa5&chksm=c47836aff30fbfb9a9641a4a1295b8b07bef394e8df2a898f2a33e18a304d4d4fedbb6bb9e63#rd",
+    "date": "2026-01-10",
+    "views": "",
+    "summary": "本文从AI从业者视角，系统梳理DeepSeek V3.2技术报告的核心内容，以及V4的最新预告。不讲技术细节，只讲方法论：大模型是怎么练出来的，以及如何判断一家公司是否真的在做模型。",
+    "platform": "wechat"
+  },
+  {
+    "title": "DeepSeek的mHC：一次精巧的工程突破，还是下一代AI的预告？",
+    "articleId": "2247484193_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484193&idx=1&sn=9b7d4593cf65a0972034a54464ac6f5a&chksm=c47836a7f30fbfb1b962f32a0e6d6dfcf94f48fcbc21c5c462802d44d7da747f070eb4697a1a#rd",
+    "date": "2026-01-07",
+    "views": "",
+    "summary": "2025年末，DeepSeek发布了一种叫mHC的新型神经网络架构，CEO亲自署名。这项技术解决了一个十年悬而未决的问题：如何让网络连接模式可学习而不导致训练崩溃。但论文只验证到270亿参数——在万亿参数的今天只是\"中小规模\"。",
+    "platform": "wechat"
+  },
+  {
+    "title": "创业的真实漏斗：从注册到独角兽、上市",
+    "articleId": "2247484183_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484183&idx=1&sn=81aacbfbda2bf6384e5538b8559744e1&chksm=c4783691f30fbf8701e2eb8d5e7cd585927d81059caf0c9f33c78a8f765ea1d625f2e92e24ee#rd",
+    "date": "2026-01-06",
+    "views": "",
+    "summary": "但这个数字没有意义。绝大多数是个体户、空壳公司、税务筹划工具。真正\"做业务\"的科技/互联网类创业公司，每年大约几十万家。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI失控之前：2026年我们还有多少纠错时间",
+    "articleId": "2247484176_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484176&idx=1&sn=54b2578385b220932ac3a2018f225836&chksm=c4783696f30fbf803fb782625c8326f7787021462e28952a2b694c1959a3e4c338b3e168e6bb#rd",
+    "date": "2026-01-05",
+    "views": "",
+    "summary": "2025年教会我们一件事：AI不是原因，是催化剂——该暴露的问题更快暴露，该崩的系统更快崩。问题不再是\"AI会不会出错\"，而是\"出错时人类还有没有能力止损\"。当加速压缩纠错窗口、复杂度削弱纠错能力，我们需要一条清晰的线：让AI承担\"想\"的负担",
+    "platform": "wechat"
+  },
+  {
+    "title": "为什么Dify、RAGFlow的\"智慧切片\"救不了法律检索——兼论领域大模型训练的真正价值",
+    "articleId": "2247484171_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484171&idx=1&sn=990dcef13850e1375c46f99af39a3809&chksm=c478368df30fbf9bfadd7f4318bb13fd77488f4723f1ed009c0c55fe0924f7759923a2a03911#rd",
+    "date": "2026-01-04",
+    "views": "",
+    "summary": "简介把1万多部部法律、法规扔进RAG，检索结果却像抽奖——问\"盗窃罪怎么判\"，返回的可能是浙江省的量刑意见而非",
+    "platform": "wechat"
+  },
+  {
+    "title": "当网约车司机都开始劝你考公",
+    "articleId": "2247484165_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484165&idx=1&sn=001b6efb2a35a13045c6c478ca835ad6&chksm=c4783683f30fbf95c8d82adbd5428cdb4ed05fe1da39ebd8c5528cdddc4196deeccc4e05b76d#rd",
+    "date": "2026-01-01",
+    "views": "",
+    "summary": "网约车司机劝我考公，今晚打车，司机吐槽平台抽成四五成、人多活少，这些都正常。但聊着聊着，他知道我年轻，就开始劝我考公。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI影响力图谱：你的行业是乘法还是加法？",
+    "articleId": "2247484160_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484160&idx=1&sn=fc86f06d67151b5acf20cf189bada544&chksm=c4783686f30fbf90f2f5b151f300147b84c026cfad2702f73da8f0d388c571c082427f0cc1e1#rd",
+    "date": "2025-12-31",
+    "views": "",
+    "summary": "最近常听到两种截然相反的声音：一边说\"AI颠覆一切\"，一边说\"我们公司上了AI，也就省了点人工\"。谁在说谎？",
+    "platform": "wechat"
+  },
+  {
+    "title": "从Manus被Meta收购看中国AI应用的结构性困境",
+    "articleId": "2247484155_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484155&idx=1&sn=3ecb0b8cadd780bea716826045f4b1c9&chksm=c478377df30fbe6b16b9133411c3e99291a74fdd3fc0ad33b3a34130b27eb618bf5efa777020#rd",
+    "date": "2025-12-30",
+    "views": "",
+    "summary": "这家公司3月份在武汉爆火，官方参观报道；7月份迁总部至新加坡，裁撤全部中国员工；12月卖给美国。从\"国产AI希望\"到\"美国公司\"，只用了9个月。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI的价值，正在你看不见的地方爆发，AI在解决特定领域的长尾问题",
+    "articleId": "2247484150_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484150&idx=1&sn=1a3b906e2cd5f47557ba9e8ed1ba6f14&chksm=c4783770f30fbe66edbdc129a7e6ffc97f0e47da5a034365de0c5979ee0d4bc0f8b65e762e2f#rd",
+    "date": "2025-12-29",
+    "views": "",
+    "summary": "AI革命正在悄然发生，但大众认知仍存在明显滞后。81%的美国人不知道AI三巨头之一的Anthropic，反映出技术发展与公众认知的断层。",
+    "platform": "wechat"
+  },
+  {
+    "title": "万卡炼丹：为什么训练超大模型只能选英伟达",
+    "articleId": "2247484146_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484146&idx=1&sn=e561d6d8209b3c8524fbad609bb6a0eb&chksm=c4783774f30fbe628d56d1a9d12179c4b28f06cb1601935d76837806091704c79aa23d8a7ef6#rd",
+    "date": "2025-12-24",
+    "views": "",
+    "summary": "在万卡级分布式训练场景下，稳定性的价值远超峰值算力。这不是\"护城河\"的问题，而是\"差之毫厘，谬之千里\"的物理定律。",
+    "platform": "wechat"
+  },
+  {
+    "title": "攻击者也算ROI：AI社会工程学的成本经济学：合法账号、合法请求、违规内容",
+    "articleId": "2247484142_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484142&idx=1&sn=ecb8d4a843f5750908f00e4588ffc0aa&chksm=c4783768f30fbe7e9abbf4d4c0e4a12e41d9104698d22768e7d1f3d1c335440e522b4e0bb1be#rd",
+    "date": "2025-12-23",
+    "views": "",
+    "summary": "当1.7万个\"正常账号\"同时发起攻击，防火墙看不出异常，内容审核被击穿，平台用了1.5小时才止血——其中80%的时间在等人拍板。这不是技术失灵，是组织失灵。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI人才贵在哪：大模型时代的能力定价法则，附：价值、AI人才能力判断清单",
+    "articleId": "2247484137_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484137&idx=1&sn=fc446b01e5c1cbd8a212df2a5369e459&chksm=c478376ff30fbe79156449df4e555481de1812120f093bad0542fadadccdf27ad9da6a86c928#rd",
+    "date": "2025-12-22",
+    "views": "",
+    "summary": "大模型人才市场正在剧烈分化。一边是天价争抢的稀缺物种，一边是简历石沉大海的过剩供给。差异的根源不在学历或年限，而在能力的可替代性。本文从学术与工程两条路径出发，划分\"入场券\"、\"高价值\"与\"护城河\"三层能力结构，",
+    "platform": "wechat"
+  },
+  {
+    "title": "没造出核武器，就别收缴步枪：大厂禁用AI工具的“安全剧场”",
+    "articleId": "2247484133_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484133&idx=1&sn=305bfe687b48969a02fcfee27f15b22d&chksm=c4783763f30fbe7567bc5d7c37398d85eaf967c78f200f0792a918e0be58a47958b4b7c2163a#rd",
+    "date": "2025-12-18",
+    "views": "",
+    "summary": "近期，多家头部互联网大厂相继禁用Cursor等AI编程工具，理由是“数据安全”。这是一场全行业的“代码防火墙”运动。",
+    "platform": "wechat"
+  },
+  {
+    "title": "苹果造芯片的真相：AI已经变成供应链问题",
+    "articleId": "2247484129_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484129&idx=1&sn=7f27fd1f1874762135b85653710482b3&chksm=c4783767f30fbe7138daf76e6959d0bf1df7dd25f4a7021f50f0819f8d06fa0825c4da8db925#rd",
+    "date": "2025-12-17",
+    "views": "",
+    "summary": "苹果放弃自研大模型，却砸重金造推理芯片——这个看似矛盾的决策，揭示了AI竞争的本质转变。",
+    "platform": "wechat"
+  },
+  {
+    "title": "守城记",
+    "articleId": "2247484120_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484120&idx=1&sn=6566cd91f6cfbb77d41294ab5a2a42a3&chksm=c478375ef30fbe4893d427661ed45ac27592dca892d7172f30e0ebd76a41aeb5bcd7c0999633#rd",
+    "date": "2025-12-16",
+    "views": "",
+    "summary": "一从前有个村子，叫安平村。村子不大，但位置重要——东边是大河，西边是官道，南来北往的商队都要从这儿过。",
+    "platform": "wechat"
+  },
+  {
+    "title": "一致性的威力：AI如何在B/G端释放数据治理的真正生产力",
+    "articleId": "2247484114_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484114&idx=1&sn=5b4d33730ec88aa14db58c62fce8972a&chksm=c4783754f30fbe420542f57e891e8ffd4f1fac4c223355a7ebd268ae18cbbe0761950e10ea5a#rd",
+    "date": "2025-12-11",
+    "views": "",
+    "summary": "传统数据治理追求\"大而全\"，把所有数据堆在一起，结果陷入平衡态——什么都有，什么都查不出来。AI带来的转变不是替代人工智能，而是实现\"一套规则、一个状态\"处理全量数据的一致性能力。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI的记忆革命：从Titans架构到长时运行智能体，谷歌Google，Anthropic，NeurIPS 2025",
+    "articleId": "2247484109_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484109&idx=1&sn=77f37b7eeab0cf3c467b8cc7d1ada05f&chksm=c478374bf30fbe5d592928601c0305c1867ae4be23cbbfc95f57398da6d1caec9e0f12d88d9d#rd",
+    "date": "2025-12-05",
+    "views": "",
+    "summary": "2025年末，AI领域同时在架构层和工程层突破\"记忆\"瓶颈。谷歌Titans通过推理时动态更新的记忆模块，将上下文窗口扩展至200万token；Anthropic则用双智能体+进度文件的工程方案，让AI能跨多个会话持续工作。",
+    "platform": "wechat"
+  },
+  {
+    "title": "中文的命运，藏在AI竞争里",
+    "articleId": "2247484104_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484104&idx=1&sn=017f214167b9c98bb6a8d62a0b9b9d44&chksm=c478374ef30fbe58ed0b5003d5cb72fa5faf8c655cb1c7a306ce5d7f9960f889a1c1fedda774#rd",
+    "date": "2025-12-03",
+    "views": "",
+    "summary": "AI竞争为什么只剩中美？表面是算力、资本、人才的较量，底层却是一场关于\"用什么语言思考\"的战争。当最强的AI只\"懂\"英语，用中文思考的人就是在用更钝的刀。中国发展AI，不只是产业问题，更是保卫中文作为\"思想生产语言\"的认知主权之战。",
+    "platform": "wechat"
+  },
+  {
+    "title": "Token Efficiency效率：AI成本革命的真正战场，Anthropic 押注新方向 Claude Opus 4.5",
+    "articleId": "2247484099_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484099&idx=1&sn=30d7332630c89691b871afd4b375b876&chksm=c4783745f30fbe53459163524a5f1e5c0411015ea1ad6c633e0c20dfab858ab54f4156eb0b60#rd",
+    "date": "2025-12-01",
+    "views": "",
+    "summary": "过去三年，LLM推理成本降了1000倍，但这条路正在撞上物理天花板。真正的成本革命不在于\"更便宜的token\"，而在于\"用更少的token干同样的活\"。Opus 4.5已展示48-76%的token消耗减少，这只是开始。",
+    "platform": "wechat"
+  },
+  {
+    "title": "\"存算一体\"智能体：AI大模型泛化能力的破局之路",
+    "articleId": "2247484092_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484092&idx=1&sn=8ca21ee5fe23bd0b41f87127f408d0c4&chksm=c478373af30fbe2c68623508a8f36c50af83ade819c5c0ce711d4ef6a5b3d52efe3ec2a0bef1#rd",
+    "date": "2025-11-28",
+    "views": "",
+    "summary": "当前大模型在新框架、新库上表现差，本质不是\"训练数据不够\"，而是架构层面\"只有存，没有算\"——训练完就成了静态快照。真正的泛化需要\"存算一体\"：用智能体框架持续抓取、过滤、更新知识，让模型从\"一次性训练\"进化为\"持续学习\"。",
+    "platform": "wechat"
+  },
+  {
+    "title": "Palantir Foundry 平台，QA问答，常见问题，深度解析，Palantir SDK",
+    "articleId": "2247484087_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484087&idx=1&sn=051674f13ee9bf2b4a12d3ee32ac0e3e&chksm=c4783731f30fbe27b8d8689a14438a0f78949f38532afd36da908e384be3391cf538594c916e#rd",
+    "date": "2025-11-18",
+    "views": "",
+    "summary": "Palantir SDK免费需平台支持，价值在本体管理、数据治理等企业能力非代码本身。本体构建极难需领域专家长期投入。开源方案Dify/FastGPT可满足多数场景，建议渐进式开发勿追求完美本体。",
+    "platform": "wechat"
+  },
+  {
+    "title": "为什么AI是黑盒？也许这不是个技术问题",
+    "articleId": "2247484083_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484083&idx=1&sn=2c3c63cac7210c415cd772fab3a66cc5&chksm=c4783735f30fbe23b20b07476d077ba2c7b75709a9d5eeb8fcf93c3796c8e48b4921c5624497#rd",
+    "date": "2025-11-15",
+    "views": "",
+    "summary": "我们一直试图\"解释\"神经网络如何工作。投入了大量资源开发可解释AI（XAI）工具，期待有一天能完全理解每个决策背后的机制。",
+    "platform": "wechat"
+  },
+  {
+    "title": "全量理解 vs 片段检索：为什么有些任务RAG做不好",
+    "articleId": "2247484078_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484078&idx=1&sn=1e027aae903eb4644edcb9d04ceb1f9e&chksm=c4783728f30fbe3e05d6b2578792254a43d84970bc4aff2d56bc7d20be11220321a8cfb8b872#rd",
+    "date": "2025-11-13",
+    "views": "",
+    "summary": "为什么给AI联网搜索反而会出错？因为片段拼接代替不了整体理解。RAG和全量分析是两种认知方式，用错场景就是灾难。",
+    "platform": "wechat"
+  },
+  {
+    "title": "通往AGI的模块化路径：一个可能的技术架构(同时解答微调与RAG之争)",
+    "articleId": "2247484072_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484072&idx=1&sn=a28a9e9ec16a7dfc5f568cfd981a9ad4&chksm=c478372ef30fbe3808d47cef3b4238f619a4ca2ad08f4a58645104672ba765b49af2476c0b48#rd",
+    "date": "2025-11-07",
+    "views": "",
+    "summary": "GPT-5、Claude Opus 4.1、Kimi K2相继发布，行业都在追求更大的单体模型。但AGI真的只有这一条路吗？本文提出一个模块化认知架构：微调+RAG不是二选一，而是左膀右臂；批判模块内置质疑机制；",
+    "platform": "wechat"
+  },
+  {
+    "title": "企业知识库：从\"数字垃圾桶\"到战略资产的价值重估",
+    "articleId": "2247484066_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484066&idx=1&sn=613919c03a0b91e2b372faf93a377971&chksm=c4783724f30fbe32593a68843d2af4f7587cb0f8ee67ffa41f9d7434e08a65630c817060370e#rd",
+    "date": "2025-11-01",
+    "views": "",
+    "summary": "",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI当背锅侠：大厂裁1.4万人背后的三重骗局：AI时代的效率游戏与需求陷阱",
+    "articleId": "2247484060_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484060&idx=1&sn=2874dcaece541f6a85130593ea3946da&chksm=c478371af30fbe0c85cd0483ea88b21a58128611de345d8dd8d956e691bcecc890cb2ce31b69#rd",
+    "date": "2025-10-31",
+    "views": "",
+    "summary": "亚马逊裁员14000人，管理层说\"AI提升效率\"，但这个叙事对内对外有不同版本。AI确实能提效，但工作没有消失——只是转为外包、模块化。真正的风险在于：企业用AI叙事降成本→短期利润飙升→资本高位套现→结构性失业积累→需求萎缩传导",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI正在投喂我们什么？一场你没察觉的认知代谢危机？AI时代如何避免算法投喂式脑萎",
+    "articleId": "2247484053_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484053&idx=1&sn=2bee45eed211860ef35c5cb7127d1272&chksm=c4783713f30fbe053f161cd5a0ba54a47c26778973bd7f5b65a64567be225b26834eb18335a6#rd",
+    "date": "2025-10-30",
+    "views": "",
+    "summary": "AI正在投喂我们什么？",
+    "platform": "wechat"
+  },
+  {
+    "title": "当OpenAI、微软、NVIDIA们开始\"交叉持股\"：我们正在目睹什么？当GPU成为新的货币：AI时代的循环游戏",
+    "articleId": "2247484048_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484048&idx=1&sn=1fd5b11d3c617565c416dc2f802633d9&chksm=c4783716f30fbe00a9743c2ba85a97335e014b79b804dae8df715d52ba66b8e133202473c448#rd",
+    "date": "2025-10-26",
+    "views": "",
+    "summary": "2025年AI基础设施领域正上演一场前所未有的资本循环游戏。Nvidia等巨头通过GPU换股权的方式深度绑定AI公司，形成\"算力-投资-需求\"的闭环生态。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AGI还有多远？当AI被问\"你能对抗熵增吗\"：一场关于智能本质的追问",
+    "articleId": "2247484043_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484043&idx=1&sn=e07bead0a1ba11f01efd4d52973853ff&chksm=c478370df30fbe1b1ba02e539f71610409d051847cee90d6c05968a34a2aa9daba73ab8a076d#rd",
+    "date": "2025-10-24",
+    "views": "",
+    "summary": "关于“AI能否对抗熵增”的探讨直指智能的本质。当前AI虽能处理信息熵，但缺乏自主性：能量依赖外部供给，目标由人类设定，无自我修复能力。真正的智能需具备明确的自我边界和内生动力，如生命体般主动对抗混乱。",
+    "platform": "wechat"
+  },
+  {
+    "title": "当AI遇到信息系统：以AI+用户推荐的标签生命周期为例——标签为什么需要\"死亡\"？",
+    "articleId": "2247484038_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484038&idx=1&sn=d8006a765bdf32a13586e21d48058311&chksm=c4783700f30fbe16584c138238873a9b667a68f900a25a32f945536d9c1bf3ea7554f0c02f33#rd",
+    "date": "2025-10-17",
+    "views": "",
+    "summary": "AI推荐系统的标签会\"过期\"：三个月前的\"硬核玩家\"可能已变成\"新手妈妈\"。本文从电商推荐场景出发，探讨标签的五种演化路径（验证、废弃、合并、分裂、复活），剖析从100行到20000行代码的复杂度梯度，揭示外部系统对接中90%的\"暗物质\"。",
+    "platform": "wechat"
+  },
+  {
+    "title": "股价暴涨17倍背后：Palantir（商业技术全解析）全栈AI帝国的野心与现实",
+    "articleId": "2247484024_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484024&idx=1&sn=a4234d17b542e2bb067ee8144e32ddd8&chksm=c47837fef30fbee86195ef9bceb129c6292b9cf165e1faab25f1cd718d0d6c672c4b3bd55774#rd",
+    "date": "2025-10-08",
+    "views": "",
+    "summary": "核心洞察：当ChatGPT还在争夺消费者注意力时，Palantir已经悄然占领了企业AI应用的制高点。",
+    "platform": "wechat"
+  },
+  {
+    "title": "自主进化的AI大模型架构设想（解决大模型时效性问题）：知识网络的拓扑设计",
+    "articleId": "2247484019_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484019&idx=1&sn=735c3d42a986fabde4c3d9c1beb8e587&chksm=c47837f5f30fbee3c1114288d44ce430a359ed5805897ebf06bafd2739181f5a083c40a2efbd#rd",
+    "date": "2025-10-03",
+    "views": "",
+    "summary": "探讨了当前AI大模型在知识更新上的困境，如成本高昂和“灾难性遗忘”。作者借鉴人脑认知模式，提出了一种全新的“知识网络”架构，旨在让AI像人类一样持续学习。该架构将知识按“半衰期”纵向分层，并按专业领域横向划分。",
+    "platform": "wechat"
+  },
+  {
+    "title": "阿里2025云栖大会吴泳铭纪要+小胡说技书对AI的一些胡说（结合刘慈欣《吞食者》）——AI革命的认知边界与资源重构",
+    "articleId": "2247484013_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484013&idx=1&sn=7585ad94dd7f019c1cf1cdfd51c2cf7a&chksm=c47837ebf30fbefdda5d0a988c3377cdf8de513bca6fdf4f44c964ecb7ff3dcb73798a364ccb#rd",
+    "date": "2025-09-26",
+    "views": "",
+    "summary": "这是一篇关于AI发展路径和产业变革的深度分析文章。提出AI发展三阶段论：从学习人类知识的智能涌现，到具备工具使用能力的自主行动，再到直接获取物理世界数据的自我迭代，最终实现超级人工智能(ASI)。",
+    "platform": "wechat"
+  },
+  {
+    "title": "企业智能体落地实践指南：从治理框架到技术架构的全景分析",
+    "articleId": "2247484008_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484008&idx=1&sn=5db6414f0d97f8f6e6509a21ebbf5461&chksm=c47837eef30fbef836c24c5b0f61bfe6e408e6b0f531336d891ff76ed7196c6a6d775b208fcf#rd",
+    "date": "2025-09-25",
+    "views": "",
+    "summary": "企业部署AI智能体时常面临两难选择：是先完善治理合规，还是快速验证业务价值？本文基于企业实践观察，系统分析智能体落地的完整要素体系。从权限管理、数据安全等治理要素，到多智能体协作、工具生态、推理架构等现代技术组件，",
+    "platform": "wechat"
+  },
+  {
+    "title": "为什么我们无法解释神经网络训练出的大模型？技术原理剖析现代AI的\"黑盒\"本质",
+    "articleId": "2247483996_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483996&idx=1&sn=bc510448ef704cd2833cd92a5f90b68c&chksm=c47837daf30fbeccf9cfecadf937ed4dac7fc806c76c1a89fd2f6df8f0c1edac4b14c1e16909#rd",
+    "date": "2025-09-15",
+    "views": "",
+    "summary": "当ChatGPT流畅对话、DALL-E生成惊艳图像时，我们不禁想知道：它们是如何做到的？这篇技术深度分析从神经网络架构演进出发，揭示现代AI系统不可解释性的根本原因。",
+    "platform": "wechat"
+  },
+  {
+    "title": "深度学习架构的硬件共生论：为什么GPU决定了AI的进化方向（Transformer、SSM、Mamba、MoE、CNN是什么）",
+    "articleId": "2247483989_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483989&idx=1&sn=9d23c55ae6172c2f6cbd746fd2d7e80d&chksm=c47837d3f30fbec58926222c9ce75874c1c2594aac6d16e2b361499cb47849defdac296f99af#rd",
+    "date": "2025-09-08",
+    "views": "",
+    "summary": "核心洞察：在深度学习的进化过程中，硬件特性并非被动的约束条件，而是积极的塑造力量。",
+    "platform": "wechat"
+  },
+  {
+    "title": "大模型蒸馏：从高维认知到低维表示的知识传递指南",
+    "articleId": "2247483979_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483979&idx=1&sn=843f2d0d7dc200cacd08a72ad64d2c01&chksm=c47837cdf30fbedbeff7046856643886b424d7115677e61b5cacfde6eca6b4e390e1136269bd#rd",
+    "date": "2025-09-07",
+    "views": "",
+    "summary": "在人工智能快速发展的今天，大型模型虽然性能卓越但部署成本高昂。模型蒸馏技术为这一难题提供了优雅的解决方案——将复杂教师模型的知识精炼传递给轻量级学生模型。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI时代最被高估的焦虑：普通人真的需要转行吗？",
+    "articleId": "2247483972_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483972&idx=1&sn=1d2ac0b0b3fe15da05c047d58fb515ea&chksm=c47837c2f30fbed463b271fc0a89c941362256e22fedc8768310de018be367ce8c81484a58d8#rd",
+    "date": "2025-09-06",
+    "views": "",
+    "summary": "打破AI焦虑。面对AI时代的集体焦虑，认为99%的普通人不需要疯狂学习AI技能。真正重要的是培养适应变化的认知能力：接受不确定性、保持学习心态、在复杂中抓住核心。AI时代最稀缺的是保持平常心的能力，\"该吃吃该喝喝\"是一种智慧而非躺平。",
+    "platform": "wechat"
+  },
+  {
+    "title": "花几个月做的用户画像，竟然不如简单年龄分组？数据挖掘背后的认知陷阱大揭秘",
+    "articleId": "2247483963_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483963&idx=1&sn=4858c57ff8f61c167afa51f346828d17&chksm=c47837bdf30fbeabe81dac87a2ff7b46e2aec2d3a1b17611a4cf166a2b515cb7c29355306a88#rd",
+    "date": "2025-09-05",
+    "views": "",
+    "summary": "为什么统计显著的结论无法转化为准确预测？本文用一个完整认知框架，深度剖析数据挖掘背后的哲学思想和认知陷阱。从统计学vs机器学习的本质差异，到特征工程的世界观选择，再到技术选择的ROI原则，帮你建立正确的数据思维，避开最常见的认知误区。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI-GPT时代认知外包的双刃剑：大模型让我们更聪明，还是更依赖？",
+    "articleId": "2247483946_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483946&idx=1&sn=c5ae59302cdfb82737e9f6ddf76e2ef3&chksm=c47837acf30fbebad06045f7b96f9b8d41e285f00771fb5acd29744b58aa256a2cb5c52b3cf3#rd",
+    "date": "2025-09-04",
+    "views": "",
+    "summary": "当我们把思维任务交给GPT处理时，认知能力究竟发生了什么变化？这种外包是在增强智能还是削弱思考？通过解析大模型的技术本质和使用者的真实变化，探讨人机协作时代最核心的认知命题。",
+    "platform": "wechat"
+  },
+  {
+    "title": "AI：大语言模型微调的真相：打破迷思，理性选择",
+    "articleId": "2247483670_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483670&idx=1&sn=812a52a4f9e12114772ba340f63c5166&chksm=c4783490f30fbd8630eecc4ca03020da9d2c5b525227a660b814c581d2646c6782ad220633dc#rd",
+    "date": "2025-09-03",
+    "views": "",
+    "summary": "一、被神化的微调：三个致命误区1.1 误区一：微调能让模型学会全新知识现实打击：微调并不增加模型的知识容量，只",
+    "platform": "wechat"
+  },
+  {
+    "title": "《浪潮将至》DeepMind联合创始人、现任微软人工智能的CEO：迎接技术浪潮的挑战与机遇、警钟与指南",
+    "articleId": "2247483663_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483663&idx=1&sn=6fcd8e5015759684f43a93abf974e15d&chksm=c4783489f30fbd9f1f4233305b1e1fb17180169d58928cde1ea354c27e7ff0d31ede2f6f3483#rd",
+    "date": "2025-01-09",
+    "views": "",
+    "summary": "《浪潮将至》不仅是一份对未来技术发展的洞察报告，更是一本行动指南，呼吁我们在迎接技术浪潮的同时，以负责任的态度构建更美好的未来。如果您对人工智能和合成生物学的未来充满好奇，或者希望深入了解如何应对技术浪潮中的复杂挑战。",
+    "platform": "wechat"
+  },
+  {
+    "title": "CSDN博客目录（151篇）-截止2025-1-1",
+    "articleId": "2247483655_1",
+    "url": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483655&idx=1&sn=56f26ef45bf1ffd2c030283e7f3a87bd&chksm=c4783481f30fbd9797da7b034944a40a5f30d5d3b3b220ff9e9e443be1b18b7eed03a12248b5#rd",
+    "date": "2025-01-01",
+    "views": "",
+    "summary": "新的一年​共同进步！！！\r\nCSDN开设了6个专栏，累计发布了151篇博客文章，内容涵盖各类技术主题，供大家免费阅读",
+    "platform": "wechat"
+  }
+]

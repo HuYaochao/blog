@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>加载中… · 小胡说技书</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;500;600&family=ZCOOL+XiaoWei&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/dark.css" />
+  <link rel="stylesheet" href="css/topbar.css" />
+  <link rel="stylesheet" href="css/post.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+</head>
+<body>
+
+<!-- topbar -->
+<div class="topbar post-topbar">
+  <a class="back-btn" href="index.html">
+    <svg viewBox="0 0 16 16" fill="none">
+      <path d="M10 3L5 8l5 5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    返回
+  </a>
+  <span class="topbar-title" id="postTopTitle" style="flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14px;"></span>
+  <div class="topbar-actions">
+    <a class="icon-btn" href="https://github.com/HuYaochao" target="_blank" title="GitHub">
+      <svg viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+    </a>
+    <button class="icon-btn" id="darkToggle" title="切换深色模式">
+      <svg class="icon-moon" viewBox="0 0 16 16" fill="currentColor"><path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/></svg>
+      <svg class="icon-sun" viewBox="0 0 16 16" fill="currentColor"><path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/></svg>
+    </button>
+  </div>
+</div>
+
+<!-- layout: toc + article -->
+<div class="post-layout">
+
+  <!-- TOC -->
+  <nav class="toc-panel" id="tocPanel">
+    <div class="toc-title">目录</div>
+    <ul class="toc-list" id="tocList">
+      <li class="toc-empty">加载中…</li>
+    </ul>
+  </nav>
+
+  <!-- article -->
+  <div class="post-wrap">
+    <article class="post-paper" id="postPaper">
+      <div class="post-header" id="postHeader">
+        <div class="post-meta-row" id="postMeta"></div>
+        <h1 class="post-title" id="postTitle">加载中…</h1>
+        <div class="post-actions" id="postActions"></div>
+      </div>
+      <div class="post-body markdown-body" id="postBody">
+        <div class="post-loading">正在加载正文…</div>
+      </div>
+      <div class="post-footer">
+        <a class="back-link" href="index.html">← 回到列表</a>
+      </div>
+    </article>
+  </div>
+
+</div>
+
+<script>
+// ── dark mode ─────────────────────────────────────────────────────────────
+if (localStorage.getItem('dark') === '1') document.body.classList.add('dark');
+document.getElementById('darkToggle').addEventListener('click', () => {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('dark', document.body.classList.contains('dark') ? '1' : '0');
+});
+
+// ── frontmatter parser ────────────────────────────────────────────────────
+function parseFrontmatter(text) {
+  if (!text.startsWith('---')) return { fm: {}, body: text };
+  const end = text.indexOf('\n---', 3);
+  if (end === -1) return { fm: {}, body: text };
+  const fmRaw = text.slice(3, end);
+  const body  = text.slice(end + 4).trim();
+  const fm = {};
+  let cur = null;
+  for (const line of fmRaw.split('\n')) {
+    const nested = line.match(/^\s{2,}(\w+):\s*"?([^"]*)"?\s*$/);
+    if (nested && cur === 'platforms') { fm.platforms = fm.platforms || {}; fm.platforms[nested[1]] = nested[2]; continue; }
+    const top = line.match(/^(\w+):\s*"?([^"]*)"?\s*$/);
+    if (top) { cur = top[1]; fm[top[1]] = top[2]; }
+    else if (line.trim() === 'platforms:') { cur = 'platforms'; fm.platforms = {}; }
+  }
+  return { fm, body };
+}
+
+// ── TOC builder ───────────────────────────────────────────────────────────
+function buildToc() {
+  const headings = document.querySelectorAll('.markdown-body h1, .markdown-body h2, .markdown-body h3');
+  const tocList  = document.getElementById('tocList');
+  if (!headings.length) { tocList.innerHTML = '<li class="toc-empty">（无目录）</li>'; return; }
+
+  // assign stable IDs
+  headings.forEach((h, i) => { if (!h.id) h.id = 'h-' + i; });
+
+  tocList.innerHTML = [...headings].map(h => {
+    const level = h.tagName.toLowerCase();
+    const text  = h.textContent.trim();
+    return `<li class="toc-item ${level}"><a href="#${h.id}" title="${text}">${text}</a></li>`;
+  }).join('');
+
+  // click: smooth scroll
+  tocList.querySelectorAll('a').forEach(a => a.addEventListener('click', e => {
+    e.preventDefault();
+    document.getElementById(a.getAttribute('href').slice(1))?.scrollIntoView({ behavior: 'smooth' });
+  }));
+
+  // scroll spy
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      const id = entry.target.id;
+      const link = tocList.querySelector(`a[href="#${id}"]`);
+      if (!link) return;
+      link.closest('.toc-item').classList.toggle('active', entry.isIntersecting);
+    });
+  }, { rootMargin: '-10% 0px -80% 0px' });
+  headings.forEach(h => observer.observe(h));
+}
+
+// ── load & render ─────────────────────────────────────────────────────────
+const params   = new URLSearchParams(location.search);
+const id       = params.get('id') || '';
+const platform = params.get('platform') || 'csdn';
+const mdPath   = `posts/${platform}_${id}.md`;
+
+if (!id) {
+  document.getElementById('postTitle').textContent = '参数错误';
+  document.getElementById('postBody').innerHTML = '<p>缺少文章 ID，请从列表页进入。</p>';
+  document.getElementById('tocList').innerHTML = '';
+} else {
+  fetch(mdPath)
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then(text => {
+      const { fm, body } = parseFrontmatter(text);
+      const plat = fm.platforms || {};
+
+      document.title = (fm.title || '文章') + ' · 小胡说技书';
+      document.getElementById('postTitle').textContent    = fm.title || '（无标题）';
+      document.getElementById('postTopTitle').textContent = fm.title || '';
+
+      // meta
+      document.getElementById('postMeta').innerHTML = [
+        fm.date     ? `<span class="pm-date">${fm.date}</span>` : '',
+        fm.category ? `<span class="pm-cat">${fm.category}</span>` : '',
+        fm.views    ? `<span class="pm-views">${Number(fm.views).toLocaleString()} 阅</span>` : '',
+      ].filter(Boolean).join('');
+
+      // platform buttons
+      document.getElementById('postActions').innerHTML = [
+        plat.csdn   ? `<a class="post-platform-btn btn-csdn"   href="${plat.csdn}"   target="_blank" rel="noopener"><span class="badge-dot" style="width:6px;height:6px;border-radius:50%;background:currentColor;display:inline-block"></span> CSDN 原文</a>`   : '',
+        plat.zhihu  ? `<a class="post-platform-btn btn-zhihu"  href="${plat.zhihu}"  target="_blank" rel="noopener"><span class="badge-dot" style="width:6px;height:6px;border-radius:50%;background:currentColor;display:inline-block"></span> 知乎原文</a>`  : '',
+        plat.wechat ? `<a class="post-platform-btn btn-wechat" href="${plat.wechat}" target="_blank" rel="noopener"><span class="badge-dot" style="width:6px;height:6px;border-radius:50%;background:currentColor;display:inline-block"></span> 公众号原文</a>` : '',
+      ].filter(Boolean).join('');
+
+      // body
+      const bodyEl = document.getElementById('postBody');
+      const clean  = body.replace(/<!--[\s\S]*?-->/g, '').trim();
+      if (!clean) {
+        const orig = plat.csdn || plat.zhihu || plat.wechat || '#';
+        bodyEl.innerHTML = `<div class="post-no-body"><p>本地暂无正文备份。</p>
+          <a href="${orig}" target="_blank" rel="noopener" class="post-platform-btn btn-csdn">前往原文阅读 →</a></div>`;
+        document.getElementById('tocList').innerHTML = '<li class="toc-empty">（无正文）</li>';
+      } else {
+        marked.setOptions({ breaks: true, gfm: true });
+        bodyEl.innerHTML = marked.parse(clean);
+        buildToc();
+      }
+    })
+    .catch(err => {
+      document.getElementById('postTitle').textContent = '加载失败';
+      document.getElementById('postBody').innerHTML =
+        `<p style="color:var(--ink-faint)">无法加载 <code>${mdPath}</code>（${err.message}）</p>`;
+      document.getElementById('tocList').innerHTML = '';
+    });
+}
+</script>
+</body>
+</html>

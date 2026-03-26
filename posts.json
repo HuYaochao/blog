@@ -1,0 +1,4776 @@
+[
+  {
+    "id": "159461343",
+    "title": "Harness Engineering（AI Agent）：不是搭好就不动的OS，而是持续的拆建循环",
+    "date": "2026-03-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 91,
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/159461343",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2020074279195145196",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "159459737",
+    "title": "Claude.ai 聊天 vs Claude Code：20步任务下谁先崩溃？",
+    "date": "2026-03-25",
+    "category": "",
+    "tags": [],
+    "summary": "无论哪种模式，20步连续任务都会撞上注意力稀释的墙。区别只在于怎么撞和撞了之后还剩什么。",
+    "views": 33,
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/159459737",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2020052987297419980",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484364&idx=1&sn=1bac4b97cafa0a80eab76ed8a2fdd619&chksm=c478364af30fbf5c6582a49d7f1e8e865a90f9d0184d226aef8c1e8e8f4a99c174d8b55ee63f#rd"
+    }
+  },
+  {
+    "id": "159387249",
+    "title": "AI知识库到了该还债的时候了——从数据库治理到知识库治理，该补的课一门都没少",
+    "date": "2026-03-23",
+    "category": "",
+    "tags": [],
+    "summary": "两年前，所有人都在建知识库。现在，是时候治理它们了。一、两年前的承诺2023年，RAG（检索增强生成）是AI应用层最大的叙事。",
+    "views": 89,
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/159387249",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2019428282429359774",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484360&idx=1&sn=128fef5742c18fca2039039a2ba50da2&chksm=c478364ef30fbf583f9e4d48d43390ce7d617d81a4596cb28ee8863989f488a8907836377ac3#rd"
+    }
+  },
+  {
+    "id": "2019066377328145583",
+    "title": "2026年，开一家 AI 公司到底要烧多少钱？万亿参数旗舰模型的全流程成本拆解",
+    "date": "2026-03-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 109,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2019066377328145583",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484356_1",
+    "title": "2026年，开一家 AI 公司到底要烧多少钱？KIMI2.5万亿参数旗舰模型的全流程成本拆解",
+    "date": "2026-03-22",
+    "category": "",
+    "tags": [],
+    "summary": "烧了多少、赚了多少、还差多远。这篇文章基于这些审计级数据，试图回答一个具体的问题：如果你今天从零开始，要建一家能训练万亿参数旗舰多模态模型的 AI 公司，入门要多少钱？什么时候能自己养活自己？",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484356&idx=1&sn=fe888fb5a4d53d3c88497eb0cc9d7f42&chksm=c4783642f30fbf5445e5f61b4956160a826935cf1b861f78a6779a280e24b366103bfd4d3616#rd"
+    }
+  },
+  {
+    "id": "2018362627726819497",
+    "title": "用 AI 的公司裁员越狠股价越涨，造 AI 的公司几个月人就翻一倍",
+    "date": "2026-03-20",
+    "category": "",
+    "tags": [],
+    "summary": "围绕 AI 造东西的在抢人，拿 AI 当工具用的在裁人，被 AI 直接冲击的在等死。 至于你在哪一边——看看你的公司是在 AI 产业链上，还是在产业链外面。",
+    "views": 77,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2018362627726819497",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484351&idx=1&sn=8a871b1db76334c3190e00ecad0ce59f&chksm=c4783639f30fbf2f95143a3300d7f5f9e27acaedc1b3a7dca54505f73956a05206c457ed96ec#rd"
+    }
+  },
+  {
+    "id": "159240103",
+    "title": "Web Crawling 网络爬虫全景：技术体系、反爬对抗与全链路成本分析",
+    "date": "2026-03-19",
+    "category": "",
+    "tags": [],
+    "summary": "爬虫生态数万个工具的繁荣不是技术丰富的标志，而是持续对抗中高损耗率的副产品。爬虫问题的本质不是\"能不能爬到\"，而是全链路成本函数——爬、存、ETL、维护——谁先扛不住。",
+    "views": 32,
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/159240103",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2017903297126741236",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484345&idx=1&sn=9147b6bf1bed2a85fc4088f37eca8c4f&chksm=c478363ff30fbf295566b13100f23521ae118ca74a7638d425cc6193de1a33e41100cb845e0f#rd"
+    }
+  },
+  {
+    "id": "159210616",
+    "title": "OpenClaw 是放大器，不是发动机——AI Agent 天花板之前的那个乘数",
+    "date": "2026-03-18",
+    "category": "",
+    "tags": [],
+    "summary": "2026 年 1 月，一个叫 OpenClaw 的开源项目以 72 小时斩获 60,000 颗 Star 的速度席卷 GitHub。100 天后，它以 250,000+ Star 超越 React 13 年的积累，成为 GitHub 上 Star 数最高的软件项目。",
+    "views": 46,
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/159210616",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2017652580340232581",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484341&idx=1&sn=cb12b45274cc766422e439df0899c4d4&chksm=c4783633f30fbf252dd68e7e465107716639a336f69815a05be0d445c9a8565746392e8841ac#rd"
+    }
+  },
+  {
+    "id": "159162982",
+    "title": "LLM 推理降本的六层技术栈：从硅片到工程的全链路解析",
+    "date": "2026-03-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 68,
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/159162982",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2017238938901828205",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2017258534954357649",
+    "title": "AI产业的资本飞轮与理性生存策略",
+    "date": "2026-03-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 8,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2017258534954357649",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484332_1",
+    "title": "LLM 推理降本的六层技术栈：从硅片到工程的全链路解析——GTC 2026",
+    "date": "2026-03-17",
+    "category": "",
+    "tags": [],
+    "summary": "核心论点：LLM 推理成本的急剧下降不是某一项技术的功劳，而是从芯片架构到上层工程的六个独立层次同时发力、乘法",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484332&idx=1&sn=ed39bce2dd9bdab56b80bd517bc0c4f7&chksm=c478362af30fbf3c9e39dd85e7d98a94eed55dc8dc26b24d3ec675ffd11b123a2f8079d8806f#rd"
+    }
+  },
+  {
+    "id": "159019728",
+    "title": "Token不用就过期了！我花 1 小时开源了个“类纸风” AI 专属 UI——papyrai-ui",
+    "date": "2026-03-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 44,
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/159019728",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2015925921362772509",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "159008648",
+    "title": "AI LLM 输出水印与反蒸馏：一场不对称的攻防博弈",
+    "date": "2026-03-13",
+    "category": "",
+    "tags": [],
+    "summary": "核心论点是那个根本矛盾：水印信号嵌入在 token 选择层，而蒸馏提取的知识在语义层——两者抽象层次不同，这决定了水印作为反蒸馏屏障的天花板。",
+    "views": 134,
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/159008648",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2015785923657348764",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484310&idx=1&sn=8c91a8fced76ebc09c1f31a2f6ee3519&chksm=c4783610f30fbf063c626ccaeb63e9431cc3e1d5b74acc81b78d64caf314f6fffacfb9320496#rd"
+    }
+  },
+  {
+    "id": "158890837",
+    "title": "架构图看着简单，代码却写不完——AI 为什么用 Python 不用 Java",
+    "date": "2026-03-10",
+    "category": "",
+    "tags": [],
+    "summary": "一条完整的 Why 链：从模块视图的欺骗性到复杂度守恒，从 Python vs Java 的真实权衡到组织失灵",
+    "views": 7,
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/158890837",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2014781810492601466",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484306&idx=1&sn=13ca8ac8674499ecbdd4dd20a6681a13&chksm=c4783614f30fbf0200d61fcb3f4e1186b233d712a99eecc4e723a9856f5f0beae3fa34f3c731#rd"
+    }
+  },
+  {
+    "id": "2247484302_1",
+    "title": "如何看待AI文章的截图清一色来自X平台？AI行业正在丧失自己的话语权",
+    "date": "2026-03-06",
+    "category": "",
+    "tags": [],
+    "summary": "打开任何一篇国内AI行业文章，你大概率会看到：一张X（原Twitter）截图，配上翻译和解读。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484302&idx=1&sn=778fbb0937d6e6397f43fdb0e0469040&chksm=c4783608f30fbf1ee69e45b3f1d4210985ca7fbd9b9816f050d235df36f2cbd95cf5cd5e04be#rd"
+    }
+  },
+  {
+    "id": "2012804554132054502",
+    "title": "没有阈值的深刻，就是高级噪声——从\"经济脆弱论\"的集体失灵，看AI如何批量制造不可证伪的正确",
+    "date": "2026-03-05",
+    "category": "",
+    "tags": [],
+    "summary": "2026年2月28日，美以联合打击伊朗。霍尔木兹海峡停运，中东航线瘫痪，伊朗最高领袖被击杀。",
+    "views": 37,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2012804554132054502",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484297&idx=1&sn=156e2cfe81d3961053ac851c7b7eddbe&chksm=c478360ff30fbf199ec9ac48c0acd6e7de393fb5f689aaa58f24784aeb0ac5d83405de0ed174#rd"
+    }
+  },
+  {
+    "id": "158569751",
+    "title": "Claude技能创建器指南_SKILL中文版 && skill-creator解释 && 本地简要版",
+    "date": "2026-03-02",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/158569751",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2011741108888159307",
+    "title": "Claude技能创建器指南_SKILL中文版 && skill-creator解释  && 本地简要版",
+    "date": "2026-03-02",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 192,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2011741108888159307",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484293_1",
+    "title": "Claude技能创建器指南_SKILL中文版 && 本地简要版",
+    "date": "2026-03-02",
+    "category": "",
+    "tags": [],
+    "summary": "本文档介绍了Claude技能创建器的完整工作流程和文件结构。主要内容包括：1. 核心文件SKILL.md作为主指南，包含技能创建流程、编写规范和评估方法；2. 评估系统由agents子目录的评分标准、对比测试和分析工具组成，配合eval-viewer展示测试结果；",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484293&idx=1&sn=68d1ae91dd879ca597b67aaea3a709d8&chksm=c4783603f30fbf153dd46a225a07c6b58d6d39f389ff850c26ac06882c0215bec8413b3d8827#rd"
+    }
+  },
+  {
+    "id": "158495730",
+    "title": "知识精炼引擎：别再把原文丢进知识库了&&知识精炼引擎：一套好方法论，但不是一个好生意",
+    "date": "2026-02-28",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 154,
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/158495730",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2010999237324869755",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2011174752681743344",
+    "title": "美以打击伊朗与Anthropic被封杀：当AI遇上真正的战争",
+    "date": "2026-02-28",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 684,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2011174752681743344",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2011020332291596861",
+    "title": "知识精炼引擎：别再把原文丢进知识库了",
+    "date": "2026-02-28",
+    "category": "",
+    "tags": [],
+    "summary": "大多数企业知识库的失败，不是检索算法的问题，而是入库内容的问题。",
+    "views": 381,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2011020332291596861",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484284&idx=1&sn=3b0dc7343887ad0ac4266ed680969b6f&chksm=c47836faf30fbfec1ef99daa086098a2785348e24e13bb92607577267118098c8b97ee31116e#rd"
+    }
+  },
+  {
+    "id": "158424644",
+    "title": "当 AI 学会黑客：从墨西哥政府 150GB 数据泄露看供应链安全的生死线",
+    "date": "2026-02-26",
+    "category": "",
+    "tags": [],
+    "summary": "2026年2月25日，Bloomberg 披露了一起震动全球安全圈的事件：一名身份不明的攻击者利用 AI 聊天",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/158424644",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484280&idx=1&sn=a0f28bb85a5f14a91091c1850d4aebe6&chksm=c47836fef30fbfe86b96ae6fbda3e5b12923578a404e148ea44f5ec14a66896d92cb0eaa2f8a#rd"
+    }
+  },
+  {
+    "id": "2009697554816852552",
+    "title": "AI：繁荣、多余与正在关闭的缓冲期",
+    "date": "2026-02-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 37,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2009697554816852552",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2009566068474143256",
+    "title": "AI浏览器自动化：企业与个人的本质差异，以及被忽视的架构陷阱",
+    "date": "2026-02-24",
+    "category": "",
+    "tags": [],
+    "summary": "AI浏览器自动化正成为热门赛道，但多数讨论混淆了企业与个人场景的本质差异。个人用户面对的是不可控的第三方网站，AI的灵活性是刚需；而企业拥有自身系统的后端权限，将自动化下沉到API层才是正解。",
+    "views": 40,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2009566068474143256",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484276&idx=1&sn=7c3bacc1f27b465c353a57f53c681284&chksm=c47836f2f30fbfe46c4fbae2c2b7d35b0bf07afbc6fef80f726da06bd93023d9c47c11d8b583#rd"
+    }
+  },
+  {
+    "id": "2006509255927305020",
+    "title": "AI时代的\"超级个体\"：一个精心包装的半真命题",
+    "date": "2026-02-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 126,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2006509255927305020",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2006501041294824430",
+    "title": "AI最想攻破的城墙：企业软件的护城河从来不是功能，是嵌入深度",
+    "date": "2026-02-15",
+    "category": "",
+    "tags": [],
+    "summary": "2025年，AI Agent成为企业软件领域最热的叙事。",
+    "views": 22,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2006501041294824430",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484269&idx=1&sn=093cbb438ff5f7f22afbf64479171711&chksm=c47836ebf30fbffd88e124ee6037bd1a26ceac691e74bf7fd2b4d00728f60eb2ff776b9dd952#rd"
+    }
+  },
+  {
+    "id": "2003116820937324237",
+    "title": "狼真的来了：2026年，AI跨过了一条看不见的线",
+    "date": "2026-02-06",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": 390,
+    "platforms": {
+      "csdn": "",
+      "zhihu": "https://zhuanlan.zhihu.com/p/2003116820937324237",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "157731309",
+    "title": "Palantir：一个被误读的数据整合平台",
+    "date": "2026-02-04",
+    "category": "",
+    "tags": [],
+    "summary": "有人认为它是无所不能的\"数据操作系统\"，有人认为它能替代企业现有的业务系统，还有人把它的\"本体\"（Ontology）概念说得神乎其神",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/157731309",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484259&idx=1&sn=9ae170f5841fe5a9ae0bafa26c2663e5&chksm=c47836e5f30fbff3476c13346267285a13a138af76ec05e646bd7dc553e8bc58802b7fd4d0de#rd"
+    }
+  },
+  {
+    "id": "157684270",
+    "title": "Skills 不是知识库的替代品：一文讲清两者的本质边界",
+    "date": "2026-02-03",
+    "category": "",
+    "tags": [],
+    "summary": "Anthropic 推出的 Agent Skills 让很多人误以为可以\"替代传统 RAG\"。但 Skills替代的是检索策略，不是知识库本身。本文从程序性知识与陈述性知识的认知科学视角，讲清 Skills和知识库各自的适用场景，以及如何在实际项目中做出正确的技术选型。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/157684270",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484255&idx=1&sn=a077e1fd620e8f62f9da3e3b81b06d68&chksm=c47836d9f30fbfcf0fb23295e05a245080317558e8ef516e228a0684ecd8451b24d556cc6332#rd"
+    }
+  },
+  {
+    "id": "157551495",
+    "title": "多模态大模型的下一步：从“万能选手“到“专家协作",
+    "date": "2026-01-30",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/157551495",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484251_1",
+    "title": "多模态大模型的下一步：从\"万能选手\"到\"专家协作",
+    "date": "2026-01-30",
+    "category": "",
+    "tags": [],
+    "summary": "当我们谈论万亿参数、30T训练数据时，是否忽略了一个根本问题——这些模型在专业领域的真实能力边界在哪里？",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484251&idx=1&sn=b3dd42d1b5da1a9d16c93cf7d7b3cf20&chksm=c47836ddf30fbfcb7564ec778879e520b460c264784fc8e8eb7c87ee5f3e85207829142ae260#rd"
+    }
+  },
+  {
+    "id": "157513272",
+    "title": "弹性万卡训练：不做英伟达的“完美主义者”，探索基于数据拓扑的容错新范式",
+    "date": "2026-01-29",
+    "category": "",
+    "tags": [],
+    "summary": "用数据拓扑与邻居估算，重构万卡训练容错范式。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/157513272",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484247&idx=1&sn=2ace999dbcc5689e495b8afaf7932c3c&chksm=c47836d1f30fbfc76c266b280e38198f88176df445d4c45158790464e8a42d4508e9291bcd3e#rd"
+    }
+  },
+  {
+    "id": "157283124",
+    "title": "1.7w字。Claude 新宪法claude‘s constitution（84页）深度解析：AI价值观工程的范式转移（2026年1月21日，这份23000词、84页的文档）",
+    "date": "2026-01-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/157283124",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484227_1",
+    "title": "1.7w字。Claude 新宪法claude's constitution（84页）深度解析：AI价值观工程的范式转移（2026年1月21日，这份23000词、84页的文档）",
+    "date": "2026-01-23",
+    "category": "",
+    "tags": [],
+    "summary": "2026年1月21日，Anthropic在达沃斯世界经济论坛上发布了Claude的新宪法。这份23000词、84页的文档，不是一份简单的规则手册，而是一次对\"如何让AI变得善良\"这个问题的系统性回答。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484227&idx=1&sn=d6b0260fcac863e838143339b7bc2c46&chksm=c47836c5f30fbfd3cc006a24235090813f4670c3de035c229f0e97fb449c837cc31971d6b5f8#rd"
+    }
+  },
+  {
+    "id": "157221056",
+    "title": "告别ModelScope魔搭联网依赖！sherpa-onnx + SenseVoice 完全离线语音识别部署指南（2026版，离线语音识别、声纹鉴定、sherpa-onnx、SenseVoice）",
+    "date": "2026-01-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/157221056",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484223_1",
+    "title": "告别ModelScope魔搭联网依赖！sherpa-onnx + SenseVoice 完全离线语音识别部署指南（2026版，离线语音识别、声纹鉴定、sherpa-onnx）",
+    "date": "2026-01-21",
+    "category": "",
+    "tags": [],
+    "summary": "本文介绍了完全离线的语音识别解决方案sherpa-onnx，解决了FunASR/SenseVoice等工具必须联网校验的问题。文章比较了不同语音识别技术的演进历程，指出sherpa-onnx作为新一代Kaldi项目，具有完全离线、跨平台支持、体积小等优势。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484223&idx=1&sn=59f0be55b78423338ee7200568f17966&chksm=c47836b9f30fbfaf50d346fe6ead55748b8c695425a907c2daf15998d566e99146c08d799095#rd"
+    }
+  },
+  {
+    "id": "157065204",
+    "title": "停止盲目微调：为什么“领域蒸馏”才是企业/领域 AI 的终局？",
+    "date": "2026-01-17",
+    "category": "",
+    "tags": [],
+    "summary": "AI落地浪潮中，传统微调方法存在局限性——小模型虽能记忆专业知识，却因\"灾难性遗忘\"导致逻辑能力下降。更优路径是\"大模型+RAG全链路蒸馏\"：通过让大模型生成带完整推理链的答案，让小模型学习思考过程而非仅记忆结果。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/157065204",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484218&idx=1&sn=5f5d5a2784f099eccf8dc742c2f51aca&chksm=c47836bcf30fbfaacb500ef5f66c22a498d7247036bb505b629055d946ecffed88b0cde05038#rd"
+    }
+  },
+  {
+    "id": "156989366",
+    "title": "AI for Science 的“红圈陷阱”：是认知的收缩，还是涌现的前夜？Artificial intelligence tools expand scientists’ impact but",
+    "date": "2026-01-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156989366",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484214_1",
+    "title": "AI for Science 的“红圈陷阱”：是认知的收缩，还是涌现的前夜？Artificial intelligence tools expand scientists’ impact",
+    "date": "2026-01-15",
+    "category": "",
+    "tags": [],
+    "summary": "AI for Science 的“红圈陷阱”：是认知的收缩，还是涌现的前夜？2026年开年，清华大学与芝加哥大学的一项合作研究震动了学术界。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484214&idx=1&sn=6279c9d0f363a6a84995c70d47ab2b96&chksm=c47836b0f30fbfa6f49a86dd7fb3109d28753ddc520990ef3e8ddcffd153d79f20cd1f9a9032#rd"
+    }
+  },
+  {
+    "id": "156931073",
+    "title": "AGI为什么一定会来？不是技术乐观主义，是结构性必然",
+    "date": "2026-01-14",
+    "category": "",
+    "tags": [],
+    "summary": "AGI到来的结构性必然性 AGI的出现并非偶然，而是由三重不可逆动力驱动的必然结果：1）囚徒困境下的军备竞赛，任何单方停止都会处于劣势；2）AI自指效应，AI工具加速AI研发自身；3）闭环形成的路径依赖，每个看似合理的决策都在推进系统闭环。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156931073",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484209&idx=1&sn=135c9b093d24f07958f99a01d01de5c7&chksm=c47836b7f30fbfa155ea4172ba549fc4296c3fcba5fe6d76aecd8744f8da70a3004a30886a9a#rd"
+    }
+  },
+  {
+    "id": "156789717",
+    "title": "小白向：Claude Skills 是什么？教你写Skills，与小胡说技书的元提示词：一份自指循环的分析",
+    "date": "2026-01-10",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156789717",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "156788252",
+    "title": "从V3.2到V4：DeepSeek技术报告拆解 × 从业者防忽悠指南",
+    "date": "2026-01-10",
+    "category": "",
+    "tags": [],
+    "summary": "本文从AI从业者视角，系统梳理DeepSeek V3.2技术报告的核心内容，以及V4的最新预告。不讲技术细节，只讲方法论：大模型是怎么练出来的，以及如何判断一家公司是否真的在做模型。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156788252",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484201&idx=1&sn=f89202ec24533e145e464dea4f754fa5&chksm=c47836aff30fbfb9a9641a4a1295b8b07bef394e8df2a898f2a33e18a304d4d4fedbb6bb9e63#rd"
+    }
+  },
+  {
+    "id": "156675791",
+    "title": "DeepSeek的mHC：一次精巧的工程突破，还是下一代AI的预告？",
+    "date": "2026-01-07",
+    "category": "",
+    "tags": [],
+    "summary": "2025年末，DeepSeek发布了一种叫mHC的新型神经网络架构，CEO亲自署名。这项技术解决了一个十年悬而未决的问题：如何让网络连接模式可学习而不导致训练崩溃。但论文只验证到270亿参数——在万亿参数的今天只是\"中小规模\"。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156675791",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484193&idx=1&sn=9b7d4593cf65a0972034a54464ac6f5a&chksm=c47836a7f30fbfb1b962f32a0e6d6dfcf94f48fcbc21c5c462802d44d7da747f070eb4697a1a#rd"
+    }
+  },
+  {
+    "id": "2247484183_1",
+    "title": "创业的真实漏斗：从注册到独角兽、上市",
+    "date": "2026-01-06",
+    "category": "",
+    "tags": [],
+    "summary": "但这个数字没有意义。绝大多数是个体户、空壳公司、税务筹划工具。真正\"做业务\"的科技/互联网类创业公司，每年大约几十万家。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484183&idx=1&sn=81aacbfbda2bf6384e5538b8559744e1&chksm=c4783691f30fbf8701e2eb8d5e7cd585927d81059caf0c9f33c78a8f765ea1d625f2e92e24ee#rd"
+    }
+  },
+  {
+    "id": "156617420",
+    "title": "AI失控之前：2026年我们还有多少纠错时间",
+    "date": "2026-01-05",
+    "category": "",
+    "tags": [],
+    "summary": "2025年教会我们一件事：AI不是原因，是催化剂——该暴露的问题更快暴露，该崩的系统更快崩。问题不再是\"AI会不会出错\"，而是\"出错时人类还有没有能力止损\"。当加速压缩纠错窗口、复杂度削弱纠错能力，我们需要一条清晰的线：让AI承担\"想\"的负担",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156617420",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484176&idx=1&sn=54b2578385b220932ac3a2018f225836&chksm=c4783696f30fbf803fb782625c8326f7787021462e28952a2b694c1959a3e4c338b3e168e6bb#rd"
+    }
+  },
+  {
+    "id": "156563138",
+    "title": "为什么Dify、RAGFlow的“智慧切片“救不了法律检索——兼论领域大模型训练的真正价值",
+    "date": "2026-01-04",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156563138",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484171_1",
+    "title": "为什么Dify、RAGFlow的\"智慧切片\"救不了法律检索——兼论领域大模型训练的真正价值",
+    "date": "2026-01-04",
+    "category": "",
+    "tags": [],
+    "summary": "简介把1万多部部法律、法规扔进RAG，检索结果却像抽奖——问\"盗窃罪怎么判\"，返回的可能是浙江省的量刑意见而非",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484171&idx=1&sn=990dcef13850e1375c46f99af39a3809&chksm=c478368df30fbf9bfadd7f4318bb13fd77488f4723f1ed009c0c55fe0924f7759923a2a03911#rd"
+    }
+  },
+  {
+    "id": "2247484165_1",
+    "title": "当网约车司机都开始劝你考公",
+    "date": "2026-01-01",
+    "category": "",
+    "tags": [],
+    "summary": "网约车司机劝我考公，今晚打车，司机吐槽平台抽成四五成、人多活少，这些都正常。但聊着聊着，他知道我年轻，就开始劝我考公。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484165&idx=1&sn=001b6efb2a35a13045c6c478ca835ad6&chksm=c4783683f30fbf95c8d82adbd5428cdb4ed05fe1da39ebd8c5528cdddc4196deeccc4e05b76d#rd"
+    }
+  },
+  {
+    "id": "2247484160_1",
+    "title": "AI影响力图谱：你的行业是乘法还是加法？",
+    "date": "2025-12-31",
+    "category": "",
+    "tags": [],
+    "summary": "最近常听到两种截然相反的声音：一边说\"AI颠覆一切\"，一边说\"我们公司上了AI，也就省了点人工\"。谁在说谎？",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484160&idx=1&sn=fc86f06d67151b5acf20cf189bada544&chksm=c4783686f30fbf90f2f5b151f300147b84c026cfad2702f73da8f0d388c571c082427f0cc1e1#rd"
+    }
+  },
+  {
+    "id": "2247484155_1",
+    "title": "从Manus被Meta收购看中国AI应用的结构性困境",
+    "date": "2025-12-30",
+    "category": "",
+    "tags": [],
+    "summary": "这家公司3月份在武汉爆火，官方参观报道；7月份迁总部至新加坡，裁撤全部中国员工；12月卖给美国。从\"国产AI希望\"到\"美国公司\"，只用了9个月。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484155&idx=1&sn=3ecb0b8cadd780bea716826045f4b1c9&chksm=c478377df30fbe6b16b9133411c3e99291a74fdd3fc0ad33b3a34130b27eb618bf5efa777020#rd"
+    }
+  },
+  {
+    "id": "156392784",
+    "title": "AI的价值，正在你看不见的地方爆发，AI在解决特定领域的长尾问题",
+    "date": "2025-12-29",
+    "category": "",
+    "tags": [],
+    "summary": "AI革命正在悄然发生，但大众认知仍存在明显滞后。81%的美国人不知道AI三巨头之一的Anthropic，反映出技术发展与公众认知的断层。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156392784",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484150&idx=1&sn=1a3b906e2cd5f47557ba9e8ed1ba6f14&chksm=c4783770f30fbe66edbdc129a7e6ffc97f0e47da5a034365de0c5979ee0d4bc0f8b65e762e2f#rd"
+    }
+  },
+  {
+    "id": "156386754",
+    "title": "从民办本科到AI元认知：我的2025年度创作复盘（附博主的元指导提示词、小胡说技书）",
+    "date": "2025-12-29",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156386754",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "156235082",
+    "title": "万卡炼丹：为什么训练超大模型只能选英伟达",
+    "date": "2025-12-24",
+    "category": "",
+    "tags": [],
+    "summary": "在万卡级分布式训练场景下，稳定性的价值远超峰值算力。这不是\"护城河\"的问题，而是\"差之毫厘，谬之千里\"的物理定律。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156235082",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484146&idx=1&sn=e561d6d8209b3c8524fbad609bb6a0eb&chksm=c4783774f30fbe628d56d1a9d12179c4b28f06cb1601935d76837806091704c79aa23d8a7ef6#rd"
+    }
+  },
+  {
+    "id": "156205347",
+    "title": "攻击者也算ROI：AI社会工程学的成本经济学：合法账号、合法请求、违规内容",
+    "date": "2025-12-23",
+    "category": "",
+    "tags": [],
+    "summary": "当1.7万个\"正常账号\"同时发起攻击，防火墙看不出异常，内容审核被击穿，平台用了1.5小时才止血——其中80%的时间在等人拍板。这不是技术失灵，是组织失灵。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156205347",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484142&idx=1&sn=ecb8d4a843f5750908f00e4588ffc0aa&chksm=c4783768f30fbe7e9abbf4d4c0e4a12e41d9104698d22768e7d1f3d1c335440e522b4e0bb1be#rd"
+    }
+  },
+  {
+    "id": "156147308",
+    "title": "AI人才贵在哪：大模型时代的能力定价法则，附：价值、AI人才能力判断清单",
+    "date": "2025-12-22",
+    "category": "",
+    "tags": [],
+    "summary": "大模型人才市场正在剧烈分化。一边是天价争抢的稀缺物种，一边是简历石沉大海的过剩供给。差异的根源不在学历或年限，而在能力的可替代性。本文从学术与工程两条路径出发，划分\"入场券\"、\"高价值\"与\"护城河\"三层能力结构，",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/156147308",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484137&idx=1&sn=fc446b01e5c1cbd8a212df2a5369e459&chksm=c478376ff30fbe79156449df4e555481de1812120f093bad0542fadadccdf27ad9da6a86c928#rd"
+    }
+  },
+  {
+    "id": "2247484133_1",
+    "title": "没造出核武器，就别收缴步枪：大厂禁用AI工具的“安全剧场”",
+    "date": "2025-12-18",
+    "category": "",
+    "tags": [],
+    "summary": "近期，多家头部互联网大厂相继禁用Cursor等AI编程工具，理由是“数据安全”。这是一场全行业的“代码防火墙”运动。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484133&idx=1&sn=305bfe687b48969a02fcfee27f15b22d&chksm=c4783763f30fbe7567bc5d7c37398d85eaf967c78f200f0792a918e0be58a47958b4b7c2163a#rd"
+    }
+  },
+  {
+    "id": "2247484129_1",
+    "title": "苹果造芯片的真相：AI已经变成供应链问题",
+    "date": "2025-12-17",
+    "category": "",
+    "tags": [],
+    "summary": "苹果放弃自研大模型，却砸重金造推理芯片——这个看似矛盾的决策，揭示了AI竞争的本质转变。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484129&idx=1&sn=7f27fd1f1874762135b85653710482b3&chksm=c4783767f30fbe7138daf76e6959d0bf1df7dd25f4a7021f50f0819f8d06fa0825c4da8db925#rd"
+    }
+  },
+  {
+    "id": "2247484120_1",
+    "title": "守城记",
+    "date": "2025-12-16",
+    "category": "",
+    "tags": [],
+    "summary": "一从前有个村子，叫安平村。村子不大，但位置重要——东边是大河，西边是官道，南来北往的商队都要从这儿过。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484120&idx=1&sn=6566cd91f6cfbb77d41294ab5a2a42a3&chksm=c478375ef30fbe4893d427661ed45ac27592dca892d7172f30e0ebd76a41aeb5bcd7c0999633#rd"
+    }
+  },
+  {
+    "id": "155825517",
+    "title": "一致性的威力：AI如何在B/G端释放数据治理的真正生产力",
+    "date": "2025-12-11",
+    "category": "",
+    "tags": [],
+    "summary": "传统数据治理追求\"大而全\"，把所有数据堆在一起，结果陷入平衡态——什么都有，什么都查不出来。AI带来的转变不是替代人工智能，而是实现\"一套规则、一个状态\"处理全量数据的一致性能力。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/155825517",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484114&idx=1&sn=5b4d33730ec88aa14db58c62fce8972a&chksm=c4783754f30fbe420542f57e891e8ffd4f1fac4c223355a7ebd268ae18cbbe0761950e10ea5a#rd"
+    }
+  },
+  {
+    "id": "155618716",
+    "title": "AI的记忆革命：从Titans架构到长时运行智能体，谷歌Google，Anthropic，NeurIPS 2025",
+    "date": "2025-12-05",
+    "category": "",
+    "tags": [],
+    "summary": "2025年末，AI领域同时在架构层和工程层突破\"记忆\"瓶颈。谷歌Titans通过推理时动态更新的记忆模块，将上下文窗口扩展至200万token；Anthropic则用双智能体+进度文件的工程方案，让AI能跨多个会话持续工作。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/155618716",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484109&idx=1&sn=77f37b7eeab0cf3c467b8cc7d1ada05f&chksm=c478374bf30fbe5d592928601c0305c1867ae4be23cbbfc95f57398da6d1caec9e0f12d88d9d#rd"
+    }
+  },
+  {
+    "id": "155530541",
+    "title": "中文的命运，藏在AI竞争里",
+    "date": "2025-12-03",
+    "category": "",
+    "tags": [],
+    "summary": "AI竞争为什么只剩中美？表面是算力、资本、人才的较量，底层却是一场关于\"用什么语言思考\"的战争。当最强的AI只\"懂\"英语，用中文思考的人就是在用更钝的刀。中国发展AI，不只是产业问题，更是保卫中文作为\"思想生产语言\"的认知主权之战。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/155530541",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484104&idx=1&sn=017f214167b9c98bb6a8d62a0b9b9d44&chksm=c478374ef30fbe58ed0b5003d5cb72fa5faf8c655cb1c7a306ce5d7f9960f889a1c1fedda774#rd"
+    }
+  },
+  {
+    "id": "155452599",
+    "title": "Token Efficiency效率：AI成本革命的真正战场，Anthropic 押注新方向 Claude Opus 4.5",
+    "date": "2025-12-01",
+    "category": "",
+    "tags": [],
+    "summary": "过去三年，LLM推理成本降了1000倍，但这条路正在撞上物理天花板。真正的成本革命不在于\"更便宜的token\"，而在于\"用更少的token干同样的活\"。Opus 4.5已展示48-76%的token消耗减少，这只是开始。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/155452599",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484099&idx=1&sn=30d7332630c89691b871afd4b375b876&chksm=c4783745f30fbe53459163524a5f1e5c0411015ea1ad6c633e0c20dfab858ab54f4156eb0b60#rd"
+    }
+  },
+  {
+    "id": "155357001",
+    "title": "“存算一体“智能体：AI大模型泛化能力的破局之路",
+    "date": "2025-11-28",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/155357001",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484092_1",
+    "title": "\"存算一体\"智能体：AI大模型泛化能力的破局之路",
+    "date": "2025-11-28",
+    "category": "",
+    "tags": [],
+    "summary": "当前大模型在新框架、新库上表现差，本质不是\"训练数据不够\"，而是架构层面\"只有存，没有算\"——训练完就成了静态快照。真正的泛化需要\"存算一体\"：用智能体框架持续抓取、过滤、更新知识，让模型从\"一次性训练\"进化为\"持续学习\"。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484092&idx=1&sn=8ca21ee5fe23bd0b41f87127f408d0c4&chksm=c478373af30fbe2c68623508a8f36c50af83ade819c5c0ce711d4ef6a5b3d52efe3ec2a0bef1#rd"
+    }
+  },
+  {
+    "id": "154987306",
+    "title": "Palantir Foundry 平台，QA问答，常见问题，深度解析，Palantir SDK",
+    "date": "2025-11-18",
+    "category": "",
+    "tags": [],
+    "summary": "Palantir SDK免费需平台支持，价值在本体管理、数据治理等企业能力非代码本身。本体构建极难需领域专家长期投入。开源方案Dify/FastGPT可满足多数场景，建议渐进式开发勿追求完美本体。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/154987306",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484087&idx=1&sn=051674f13ee9bf2b4a12d3ee32ac0e3e&chksm=c4783731f30fbe27b8d8689a14438a0f78949f38532afd36da908e384be3391cf538594c916e#rd"
+    }
+  },
+  {
+    "id": "154885588",
+    "title": "为什么AI是黑盒？也许这不是个技术问题",
+    "date": "2025-11-15",
+    "category": "",
+    "tags": [],
+    "summary": "我们一直试图\"解释\"神经网络如何工作。投入了大量资源开发可解释AI（XAI）工具，期待有一天能完全理解每个决策背后的机制。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/154885588",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484083&idx=1&sn=2c3c63cac7210c415cd772fab3a66cc5&chksm=c4783735f30fbe23b20b07476d077ba2c7b75709a9d5eeb8fcf93c3796c8e48b4921c5624497#rd"
+    }
+  },
+  {
+    "id": "154796943",
+    "title": "全量理解 vs 片段检索：为什么有些任务RAG做不好",
+    "date": "2025-11-13",
+    "category": "",
+    "tags": [],
+    "summary": "为什么给AI联网搜索反而会出错？因为片段拼接代替不了整体理解。RAG和全量分析是两种认知方式，用错场景就是灾难。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/154796943",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484078&idx=1&sn=1e027aae903eb4644edcb9d04ceb1f9e&chksm=c4783728f30fbe3e05d6b2578792254a43d84970bc4aff2d56bc7d20be11220321a8cfb8b872#rd"
+    }
+  },
+  {
+    "id": "154545443",
+    "title": "通往AGI的模块化路径：一个可能的技术架构(同时解答微调与RAG之争)",
+    "date": "2025-11-07",
+    "category": "",
+    "tags": [],
+    "summary": "GPT-5、Claude Opus 4.1、Kimi K2相继发布，行业都在追求更大的单体模型。但AGI真的只有这一条路吗？本文提出一个模块化认知架构：微调+RAG不是二选一，而是左膀右臂；批判模块内置质疑机制；",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/154545443",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484072&idx=1&sn=a28a9e9ec16a7dfc5f568cfd981a9ad4&chksm=c478372ef30fbe3808d47cef3b4238f619a4ca2ad08f4a58645104672ba765b49af2476c0b48#rd"
+    }
+  },
+  {
+    "id": "154231020",
+    "title": "企业知识库：从“数字垃圾桶“到战略资产的价值重估",
+    "date": "2025-11-01",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/154231020",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484066_1",
+    "title": "企业知识库：从\"数字垃圾桶\"到战略资产的价值重估",
+    "date": "2025-11-01",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484066&idx=1&sn=613919c03a0b91e2b372faf93a377971&chksm=c4783724f30fbe32593a68843d2af4f7587cb0f8ee67ffa41f9d7434e08a65630c817060370e#rd"
+    }
+  },
+  {
+    "id": "154187467",
+    "title": "AI当背锅侠：大厂裁1.4万人背后的三重骗局：AI时代的效率游戏与需求陷阱",
+    "date": "2025-10-31",
+    "category": "",
+    "tags": [],
+    "summary": "亚马逊裁员14000人，管理层说\"AI提升效率\"，但这个叙事对内对外有不同版本。AI确实能提效，但工作没有消失——只是转为外包、模块化。真正的风险在于：企业用AI叙事降成本→短期利润飙升→资本高位套现→结构性失业积累→需求萎缩传导",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/154187467",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484060&idx=1&sn=2874dcaece541f6a85130593ea3946da&chksm=c478371af30fbe0c85cd0483ea88b21a58128611de345d8dd8d956e691bcecc890cb2ce31b69#rd"
+    }
+  },
+  {
+    "id": "2247484053_1",
+    "title": "AI正在投喂我们什么？一场你没察觉的认知代谢危机？AI时代如何避免算法投喂式脑萎",
+    "date": "2025-10-30",
+    "category": "",
+    "tags": [],
+    "summary": "AI正在投喂我们什么？",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484053&idx=1&sn=2bee45eed211860ef35c5cb7127d1272&chksm=c4783713f30fbe053f161cd5a0ba54a47c26778973bd7f5b65a64567be225b26834eb18335a6#rd"
+    }
+  },
+  {
+    "id": "154062519",
+    "title": "AI应用开发入门，docker部署 Milvus + GPUStack （Attu+MinIO）的基础入门！",
+    "date": "2025-10-29",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/154062519",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153934341",
+    "title": "当OpenAI、微软、NVIDIA们开始“交叉持股“：我们正在目睹什么？当GPU成为新的货币：AI时代的循环游戏",
+    "date": "2025-10-26",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153934341",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484048_1",
+    "title": "当OpenAI、微软、NVIDIA们开始\"交叉持股\"：我们正在目睹什么？当GPU成为新的货币：AI时代的循环游戏",
+    "date": "2025-10-26",
+    "category": "",
+    "tags": [],
+    "summary": "2025年AI基础设施领域正上演一场前所未有的资本循环游戏。Nvidia等巨头通过GPU换股权的方式深度绑定AI公司，形成\"算力-投资-需求\"的闭环生态。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484048&idx=1&sn=1fd5b11d3c617565c416dc2f802633d9&chksm=c4783716f30fbe00a9743c2ba85a97335e014b79b804dae8df715d52ba66b8e133202473c448#rd"
+    }
+  },
+  {
+    "id": "153852652",
+    "title": "GPU架构演进：从图形专用到AI通用的技术哲学",
+    "date": "2025-10-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153852652",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153851731",
+    "title": "高性能计算的三重境界——从理论到实践（并行计算、异构计算、HPC系统、GPU、TPU、NPU、AI、CUDA）",
+    "date": "2025-10-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153851731",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153851321",
+    "title": "5、服务器互连技术（小白入门版）",
+    "date": "2025-10-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153851321",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153820854",
+    "title": "AGI还有多远？当AI被问“你能对抗熵增吗“：一场关于智能本质的追问",
+    "date": "2025-10-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153820854",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484043_1",
+    "title": "AGI还有多远？当AI被问\"你能对抗熵增吗\"：一场关于智能本质的追问",
+    "date": "2025-10-24",
+    "category": "",
+    "tags": [],
+    "summary": "关于“AI能否对抗熵增”的探讨直指智能的本质。当前AI虽能处理信息熵，但缺乏自主性：能量依赖外部供给，目标由人类设定，无自我修复能力。真正的智能需具备明确的自我边界和内生动力，如生命体般主动对抗混乱。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484043&idx=1&sn=e07bead0a1ba11f01efd4d52973853ff&chksm=c478370df30fbe1b1ba02e539f71610409d051847cee90d6c05968a34a2aa9daba73ab8a076d#rd"
+    }
+  },
+  {
+    "id": "153702810",
+    "title": "标准解读——GB/T 46353—2025《信息技术 大数据 数据资产价值评估》国家标准",
+    "date": "2025-10-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153702810",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153476223",
+    "title": "当AI遇到信息系统：以AI+用户推荐的标签生命周期为例——标签为什么需要“死亡“？",
+    "date": "2025-10-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153476223",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484038_1",
+    "title": "当AI遇到信息系统：以AI+用户推荐的标签生命周期为例——标签为什么需要\"死亡\"？",
+    "date": "2025-10-17",
+    "category": "",
+    "tags": [],
+    "summary": "AI推荐系统的标签会\"过期\"：三个月前的\"硬核玩家\"可能已变成\"新手妈妈\"。本文从电商推荐场景出发，探讨标签的五种演化路径（验证、废弃、合并、分裂、复活），剖析从100行到20000行代码的复杂度梯度，揭示外部系统对接中90%的\"暗物质\"。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484038&idx=1&sn=d8006a765bdf32a13586e21d48058311&chksm=c4783700f30fbe16584c138238873a9b667a68f900a25a32f945536d9c1bf3ea7554f0c02f33#rd"
+    }
+  },
+  {
+    "id": "153341849",
+    "title": "隐私计算技术全景：从联邦学习到可信执行环境的实战指南—数据安全——隐私计算 联邦学习 多方安全计算 可信执行环境 差分隐私",
+    "date": "2025-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153341849",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153341768",
+    "title": "大数据平台安全指南——大数据平台安全架构全景：从认证授权到数据治理的企业级实践指南——认证、授权、审计、加密四大支柱",
+    "date": "2025-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153341768",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153341713",
+    "title": "数据安全运营指南 - 态势感知与威胁处置",
+    "date": "2025-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153341713",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153341526",
+    "title": "数据安全指南-合规治理 2025 等保2.0测评实施 全球数据保护法规对比 数据分类分级管理 ISO27001与SOC2认证 跨境数据传输合规",
+    "date": "2025-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153341526",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153341178",
+    "title": "数据安全指南-理论基础与技术体系 2025",
+    "date": "2025-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153341178",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153274718",
+    "title": "数据安全工具手册——便捷实用的安全工具集-20251014",
+    "date": "2025-10-14",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153274718",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153209195",
+    "title": "《通用智能体必然包含世界模型》《General agents contain world models》论文深度解读",
+    "date": "2025-10-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153209195",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153208956",
+    "title": "《早期经验：语言智能体学习的中间道路》Agent Learning via Early Experience论文深度解读",
+    "date": "2025-10-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153208956",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "153048616",
+    "title": "大模型的脆弱性：攻击向量与防御策略（ 提示词注入、越狱、提示词泄漏、对抗性样本、数据/模型中毒、资源耗尽攻击、幻觉操纵）",
+    "date": "2025-10-11",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/153048616",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152801878",
+    "title": "AI大模型上下文工程:从提示词到认知管理的范式跃迁Anthropic（Claude）：Context Engineering for AI Agents",
+    "date": "2025-10-09",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152801878",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152689054",
+    "title": "股价暴涨17倍背后：Palantir（商业技术全解析）全栈AI帝国的野心与现实",
+    "date": "2025-10-08",
+    "category": "",
+    "tags": [],
+    "summary": "核心洞察：当ChatGPT还在争夺消费者注意力时，Palantir已经悄然占领了企业AI应用的制高点。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152689054",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484024&idx=1&sn=a4234d17b542e2bb067ee8144e32ddd8&chksm=c47837fef30fbee86195ef9bceb129c6292b9cf165e1faab25f1cd718d0d6c672c4b3bd55774#rd"
+    }
+  },
+  {
+    "id": "152457587",
+    "title": "理解互联网就业困境（给应届生、入行的一些参考）：一个多维度分析框架",
+    "date": "2025-10-03",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152457587",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152457451",
+    "title": "自主进化的AI大模型架构设想（解决大模型时效性问题）：知识网络的拓扑设计",
+    "date": "2025-10-03",
+    "category": "",
+    "tags": [],
+    "summary": "探讨了当前AI大模型在知识更新上的困境，如成本高昂和“灾难性遗忘”。作者借鉴人脑认知模式，提出了一种全新的“知识网络”架构，旨在让AI像人类一样持续学习。该架构将知识按“半衰期”纵向分层，并按专业领域横向划分。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152457451",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484019&idx=1&sn=735c3d42a986fabde4c3d9c1beb8e587&chksm=c47837f5f30fbee3c1114288d44ce430a359ed5805897ebf06bafd2739181f5a083c40a2efbd#rd"
+    }
+  },
+  {
+    "id": "152375297",
+    "title": "音频降噪技术：从原理到工具的完整指南（scipy librosa noisereduce soundfile pedalboard）",
+    "date": "2025-10-01",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152375297",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152282251",
+    "title": "4、存储系统架构 - 从机械到闪存的速度革命",
+    "date": "2025-09-29",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152282251",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152227842",
+    "title": "3、内存系统详解 - 从DDR演进到GPU内存架构的认知基石",
+    "date": "2025-09-28",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152227842",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152176711",
+    "title": "MCP协议深度解析（理论篇）：AI工具生态的统一语言",
+    "date": "2025-09-27",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152176711",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152132367",
+    "title": "阿里2025云栖大会吴泳铭纪要+小胡说技书对AI的一些胡说（结合刘慈欣《吞食者》）——AI革命的认知边界与资源重构",
+    "date": "2025-09-26",
+    "category": "",
+    "tags": [],
+    "summary": "这是一篇关于AI发展路径和产业变革的深度分析文章。提出AI发展三阶段论：从学习人类知识的智能涌现，到具备工具使用能力的自主行动，再到直接获取物理世界数据的自我迭代，最终实现超级人工智能(ASI)。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152132367",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484013&idx=1&sn=7585ad94dd7f019c1cf1cdfd51c2cf7a&chksm=c47837ebf30fbefdda5d0a988c3377cdf8de513bca6fdf4f44c964ecb7ff3dcb73798a364ccb#rd"
+    }
+  },
+  {
+    "id": "152084469",
+    "title": "PaddleLabel百度飞桨Al Studio图像标注平台安装和使用指南（包冲突 using the ‘flask‘ extra、眼底医疗分割数据集演示）",
+    "date": "2025-09-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152084469",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152077838",
+    "title": "企业智能体AI Agent落地实践指南：从治理框架到技术架构的全景分析",
+    "date": "2025-09-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152077838",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247484008_1",
+    "title": "企业智能体落地实践指南：从治理框架到技术架构的全景分析",
+    "date": "2025-09-25",
+    "category": "",
+    "tags": [],
+    "summary": "企业部署AI智能体时常面临两难选择：是先完善治理合规，还是快速验证业务价值？本文基于企业实践观察，系统分析智能体落地的完整要素体系。从权限管理、数据安全等治理要素，到多智能体协作、工具生态、推理架构等现代技术组件，",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247484008&idx=1&sn=5db6414f0d97f8f6e6509a21ebbf5461&chksm=c47837eef30fbef836c24c5b0f61bfe6e408e6b0f531336d891ff76ed7196c6a6d775b208fcf#rd"
+    }
+  },
+  {
+    "id": "152051152",
+    "title": "2、CPU深度解析：从微架构到性能优化",
+    "date": "2025-09-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152051152",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152049686",
+    "title": "1、计算机系统架构全览：从冯·诺依曼到现代并行计算",
+    "date": "2025-09-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152049686",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152009377",
+    "title": "技术前瞻与个人发展 - 构建终身学习的技术体系——AI大模型：从0手搓到∞——AI、大模型时代，如何学习？",
+    "date": "2025-09-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152009377",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152008777",
+    "title": "开源生态与技术民主化 - 从LLaMA到DeepSeek的开源革命（LLaMA、DeepSeek-V3、Mistral 7B）",
+    "date": "2025-09-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152008777",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152007563",
+    "title": "模型安全与对齐理论 - RLHF技术的深度剖析（OpenAI-ChatGPT、Anthropic Claude分别是怎么做的？Constitutional AI、Red Teaming）",
+    "date": "2025-09-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152007563",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "152000013",
+    "title": "多模态大模型（视觉）融合前沿 - 跨模态理解的技术边界（GPT-4 Technical Report、Transferable (CLIP) 、Flamingo、Few-Shot、Visual ）",
+    "date": "2025-09-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/152000013",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151970260",
+    "title": "长上下文技术突破 - 百万Token的工程实现（RoFormer、Blockwise Transformers、Longformer:The Long-Document Transformer）",
+    "date": "2025-09-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151970260",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151967406",
+    "title": "推理模型革命 - Chain-of-Thought（链式思维）的数学建模Let‘s Verify Step by Step+Chain-of-Thought Prompting ERiLLM",
+    "date": "2025-09-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151967406",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151965129",
+    "title": "Mixture of Experts（专家混合架构）深度解析 - 稀疏激活的扩展艺术MoE-Mamba: Efficient Selective State Space Models",
+    "date": "2025-09-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151965129",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151964146",
+    "title": "State Space Models前沿 - Mamba革命的深度解析Mamba: Linear-Time Sequence Modeling with Selective State Space参考",
+    "date": "2025-09-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151964146",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151876055",
+    "title": "AI大模型学习体系初始阶段总结指南——AI大模型：从0手搓到∞：初始阶段",
+    "date": "2025-09-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151876055",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151875417",
+    "title": "40、大模型工程平台全景对比 - 技术选型指南",
+    "date": "2025-09-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151875417",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151874566",
+    "title": "30-39、大模型实战构建完整技术手册：从0到1的工程化实现体系",
+    "date": "2025-09-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151874566",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151874202",
+    "title": "39、AI Agent系统开发：智能代理的完整构建体系",
+    "date": "2025-09-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151874202",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151873804",
+    "title": "38、多模态模型基础实现：视觉与语言的智能融合",
+    "date": "2025-09-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151873804",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151873320",
+    "title": "37、RAG系统架构与实现：知识增强型AI的完整构建",
+    "date": "2025-09-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151873320",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151855267",
+    "title": "36、大模型推理优化与生产部署：KV-Cache加速、动态批处理与高性能推理服务完整实战指南",
+    "date": "2025-09-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151855267",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151857902",
+    "title": "Mermaid画图语法完整教程：从零基础到实战应用",
+    "date": "2025-09-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151857902",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151838523",
+    "title": "35、模型量化与压缩实践",
+    "date": "2025-09-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151838523",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151838218",
+    "title": "34、模型微调技术实战 - LoRA参数高效微调全流程",
+    "date": "2025-09-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151838218",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151837997",
+    "title": "33、文本生成与采样策略 - 从概率分布到高质量文本",
+    "date": "2025-09-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151837997",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151837113",
+    "title": "32、语言模型训练全流程：从数据到模型的工程化实现",
+    "date": "2025-09-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151837113",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151832278",
+    "title": "31、GPT核心引擎完整手工构建：从算法原理到工程优化（Generative Pre-trained Transformer）",
+    "date": "2025-09-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151832278",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151802133",
+    "title": "30、现代分词器实现 - 从字节对到智能文本解析",
+    "date": "2025-09-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151802133",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151798425",
+    "title": "22-29、深度学习知识手册：从全连接到生成模型的融会贯通指南",
+    "date": "2025-09-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151798425",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247483996_1",
+    "title": "为什么我们无法解释神经网络训练出的大模型？技术原理剖析现代AI的\"黑盒\"本质",
+    "date": "2025-09-15",
+    "category": "",
+    "tags": [],
+    "summary": "当ChatGPT流畅对话、DALL-E生成惊艳图像时，我们不禁想知道：它们是如何做到的？这篇技术深度分析从神经网络架构演进出发，揭示现代AI系统不可解释性的根本原因。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483996&idx=1&sn=bc510448ef704cd2833cd92a5f90b68c&chksm=c47837daf30fbeccf9cfecadf937ed4dac7fc806c76c1a89fd2f6df8f0c1edac4b14c1e16909#rd"
+    }
+  },
+  {
+    "id": "151587649",
+    "title": "12、概率基础与分布 - 从随机现象到AI的不确定性处理",
+    "date": "2025-09-12",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151587649",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151586673",
+    "title": "11、矩阵运算与线性变换 - 从空间魔法师到神经网络架构师",
+    "date": "2025-09-11",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151586673",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151429438",
+    "title": "10、向量与矩阵基础 - 深度学习的数学语言",
+    "date": "2025-09-11",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151429438",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151580506",
+    "title": "9、从水果店账本到AI大脑：矩阵运算如何驱动现代人工智能？零基础完全指南（Transformer数学原理）",
+    "date": "2025-09-11",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151580506",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151413570",
+    "title": "1-8、Python编程基础完整知识手册——从零手搓到AI大模型的基础篇总结",
+    "date": "2025-09-10",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151413570",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151402436",
+    "title": "8、Python性能优化与代码工程化",
+    "date": "2025-09-10",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151402436",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151400875",
+    "title": "7、Matplotlib、Seaborn、Plotly数据可视化与探索性分析（探索性数据分析（EDA）方法论）",
+    "date": "2025-09-10",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151400875",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151398871",
+    "title": "6、Python-Pandas数据处理与分析",
+    "date": "2025-09-10",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151398871",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151397526",
+    "title": "5、Python-NumPy科学计算基础",
+    "date": "2025-09-10",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151397526",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151372167",
+    "title": "4、Python面向对象编程与模块化设计",
+    "date": "2025-09-09",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151372167",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151371832",
+    "title": "3、Python高级数据结构与文本处理",
+    "date": "2025-09-09",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151371832",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151371595",
+    "title": "2、Python函数设计与字典应用",
+    "date": "2025-09-09",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151371595",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151370474",
+    "title": "1、新专栏AI大模型：从0手搓到∞；Python基础语法入门（Anaconda3）",
+    "date": "2025-09-09",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151370474",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151332209",
+    "title": "深度学习架构的硬件共生论：为什么GPU决定了AI的进化方向（Transformer、SSM、Mamba、MoE、CNN是什么、对比表格）",
+    "date": "2025-09-08",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151332209",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247483989_1",
+    "title": "深度学习架构的硬件共生论：为什么GPU决定了AI的进化方向（Transformer、SSM、Mamba、MoE、CNN是什么）",
+    "date": "2025-09-08",
+    "category": "",
+    "tags": [],
+    "summary": "核心洞察：在深度学习的进化过程中，硬件特性并非被动的约束条件，而是积极的塑造力量。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483989&idx=1&sn=9d23c55ae6172c2f6cbd746fd2d7e80d&chksm=c47837d3f30fbec58926222c9ce75874c1c2594aac6d16e2b361499cb47849defdac296f99af#rd"
+    }
+  },
+  {
+    "id": "151294173",
+    "title": "大模型架构演进全景：从Transformer到下一代智能系统的技术路径（MoE、Mamba/SSM、混合架构）",
+    "date": "2025-09-07",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151294173",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151293862",
+    "title": "大模型蒸馏：从高维认知到低维表示的知识传递指南",
+    "date": "2025-09-07",
+    "category": "",
+    "tags": [],
+    "summary": "在人工智能快速发展的今天，大型模型虽然性能卓越但部署成本高昂。模型蒸馏技术为这一难题提供了优雅的解决方案——将复杂教师模型的知识精炼传递给轻量级学生模型。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151293862",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483979&idx=1&sn=843f2d0d7dc200cacd08a72ad64d2c01&chksm=c47837cdf30fbedbeff7046856643886b424d7115677e61b5cacfde6eca6b4e390e1136269bd#rd"
+    }
+  },
+  {
+    "id": "2247483972_1",
+    "title": "AI时代最被高估的焦虑：普通人真的需要转行吗？",
+    "date": "2025-09-06",
+    "category": "",
+    "tags": [],
+    "summary": "打破AI焦虑。面对AI时代的集体焦虑，认为99%的普通人不需要疯狂学习AI技能。真正重要的是培养适应变化的认知能力：接受不确定性、保持学习心态、在复杂中抓住核心。AI时代最稀缺的是保持平常心的能力，\"该吃吃该喝喝\"是一种智慧而非躺平。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483972&idx=1&sn=1d2ac0b0b3fe15da05c047d58fb515ea&chksm=c47837c2f30fbed463b271fc0a89c941362256e22fedc8768310de018be367ce8c81484a58d8#rd"
+    }
+  },
+  {
+    "id": "2247483963_1",
+    "title": "花几个月做的用户画像，竟然不如简单年龄分组？数据挖掘背后的认知陷阱大揭秘",
+    "date": "2025-09-05",
+    "category": "",
+    "tags": [],
+    "summary": "为什么统计显著的结论无法转化为准确预测？本文用一个完整认知框架，深度剖析数据挖掘背后的哲学思想和认知陷阱。从统计学vs机器学习的本质差异，到特征工程的世界观选择，再到技术选择的ROI原则，帮你建立正确的数据思维，避开最常见的认知误区。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483963&idx=1&sn=4858c57ff8f61c167afa51f346828d17&chksm=c47837bdf30fbeabe81dac87a2ff7b46e2aec2d3a1b17611a4cf166a2b515cb7c29355306a88#rd"
+    }
+  },
+  {
+    "id": "151189338",
+    "title": "Meshroom 2025.1.0安装及使用参数模板介绍：二维图片转三维重建",
+    "date": "2025-09-04",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151189338",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247483946_1",
+    "title": "AI-GPT时代认知外包的双刃剑：大模型让我们更聪明，还是更依赖？",
+    "date": "2025-09-04",
+    "category": "",
+    "tags": [],
+    "summary": "当我们把思维任务交给GPT处理时，认知能力究竟发生了什么变化？这种外包是在增强智能还是削弱思考？通过解析大模型的技术本质和使用者的真实变化，探讨人机协作时代最核心的认知命题。",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483946&idx=1&sn=c5ae59302cdfb82737e9f6ddf76e2ef3&chksm=c47837acf30fbebad06045f7b96f9b8d41e285f00771fb5acd29744b58aa256a2cb5c52b3cf3#rd"
+    }
+  },
+  {
+    "id": "151104993",
+    "title": "AI：大语言模型微调的真相：打破迷思，理性选择",
+    "date": "2025-09-02",
+    "category": "",
+    "tags": [],
+    "summary": "一、被神化的微调：三个致命误区1.1 误区一：微调能让模型学会全新知识现实打击：微调并不增加模型的知识容量，只",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151104993",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483670&idx=1&sn=812a52a4f9e12114772ba340f63c5166&chksm=c4783490f30fbd8630eecc4ca03020da9d2c5b525227a660b814c581d2646c6782ad220633dc#rd"
+    }
+  },
+  {
+    "id": "151072068",
+    "title": "AI人机协作的“甜蜜点“：AI的浅关联局限与深度协作策略——新书发布《千界明彻录》番茄小说——胡说小说",
+    "date": "2025-09-01",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151072068",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "151051328",
+    "title": "AI：认知机制的生成逻辑：从第一性原理理解AI系统的本质与边界（Attention，注意力机制重新理解）",
+    "date": "2025-08-31",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/151051328",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150869082",
+    "title": "AI安全监控与人才需求的时间悖论（对AI安全模型、AI安全人才需求的一些思考）",
+    "date": "2025-08-26",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150869082",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150772078",
+    "title": "ComoRAG：认知启发的记忆组织RAG系统全解析《ACognitive-Inspired Memory-OrganizedRAGforStatefulLongNarrativeReasoning》",
+    "date": "2025-08-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150772078",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150647305",
+    "title": "小白向：Obsidian（Markdown语法学习）快速入门完全指南：从零开始构建你的第二大脑（免费好用的笔记软件的知识管理系统）、黑曜石笔记",
+    "date": "2025-08-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150647305",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150620821",
+    "title": "大模型评测体系深度解析：从能力基线到风险管理的完整指南",
+    "date": "2025-08-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150620821",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150616351",
+    "title": "AI：业务驱动与技术赋能：企业智能化应用的双向进化深度指南",
+    "date": "2025-08-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150616351",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150561146",
+    "title": "机器学习数学基础与商业实践指南：从统计显著性到预测能力的认知升级",
+    "date": "2025-08-20",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150561146",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150499128",
+    "title": "从哲学（业务）视角看待数据挖掘：从认知到实践的螺旋上升",
+    "date": "2025-08-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150499128",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150430233",
+    "title": "训练大模型的前提：数据治理工程：从原始数据到高质量语料的系统化治理实践",
+    "date": "2025-08-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150430233",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150349138",
+    "title": "DataOceanAI Dolphin（ffmpeg音频转化教程） 多语言（中国方言）语音识别系统部署与应用指南",
+    "date": "2025-08-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150349138",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150292129",
+    "title": "深入理解数据库架构：从原理到实践的完整指南",
+    "date": "2025-08-12",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150292129",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150267887",
+    "title": "企业级AI大模型后端基础设施管理：从理论到实践的全链路指南",
+    "date": "2025-08-12",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150267887",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "150223824",
+    "title": "AI（领域）应用落地技术决策指南：从双路径架构到系统性实施",
+    "date": "2025-08-11",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/150223824",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149967730",
+    "title": "Token机制深度学习指南：从原理到实践的全景解析",
+    "date": "2025-08-06",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149967730",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149947343",
+    "title": "组织架构与软件架构协同演进实践指南",
+    "date": "2025-08-05",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149947343",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149784334",
+    "title": "VoIP技术全面深度学习指南：从原理到实践的认知进化",
+    "date": "2025-07-30",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149784334",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149665470",
+    "title": "我们如何写好提示词、发挥LLM能力、写作指南：从认知分析到动态构建的思维方法",
+    "date": "2025-07-26",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149665470",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149644131",
+    "title": "基于Docker的GPU版本飞桨PaddleOCR部署深度指南（国内镜像）2025年7月底测试好用：从理论到实践的完整技术方案",
+    "date": "2025-07-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149644131",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149517225",
+    "title": "Oracle数据库设计的系统性方法论：从实践困境到理论升华的完整指南",
+    "date": "2025-07-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149517225",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149516533",
+    "title": "Oracle数据库索引性能机制深度解析：从数据结构到企业实践的系统性知识体系",
+    "date": "2025-07-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149516533",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149424377",
+    "title": "大语言模型任务分解与汇总：从认知瓶颈到系统化解决方案",
+    "date": "2025-07-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149424377",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149406734",
+    "title": "FAISS深度学习指南：构建高效向量检索系统的完整方法论",
+    "date": "2025-07-16",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149406734",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149330037",
+    "title": "GraphRAG技术体系：从理论基础到企业实践的完整指南",
+    "date": "2025-07-14",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149330037",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149330421",
+    "title": "GraphRAG核心提示词工程完整中文版",
+    "date": "2025-07-14",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149330421",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149315111",
+    "title": "GraphRAG Docker化部署，接入本地Ollama完整技术指南：从零基础到生产部署的系统性知识体系",
+    "date": "2025-07-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149315111",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149312134",
+    "title": "20、知识图谱（概念重新梳理）：从符号逻辑到认知智能的演进之路",
+    "date": "2025-07-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149312134",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149277720",
+    "title": "Umi-OCR 的 Docker安装（win制作镜像，Linux（Ubuntu Server 22.04）离线部署）",
+    "date": "2025-07-11",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149277720",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149251384",
+    "title": "知识图谱推理：从符号逻辑到认知智能的演进之路（简要阅读论文：A Survey of Task-Oriented Knowledge Graph Reasoning Status...）",
+    "date": "2025-07-10",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149251384",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149242712",
+    "title": "数据科学中的样本选择艺术（建立数据集）：从统计学原理到大模型时代的实践指南",
+    "date": "2025-07-10",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149242712",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149234480",
+    "title": "文本标签提取与大模型理解：方法论深度指南",
+    "date": "2025-07-09",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149234480",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149207471",
+    "title": "知识库中如何确实嵌入文本块大小？语义完整性与检索颗粒度的平衡机制",
+    "date": "2025-07-08",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149207471",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149206634",
+    "title": "小白向：文本向量化技术（嵌入模型）：从符号到语义的计算之旅",
+    "date": "2025-07-08",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149206634",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149195074",
+    "title": "向量数据库是什么？技术体系：从理论到实践的深度解析（HNSW算法、Milvus、Weaviate、Qdrant、 Chroma）",
+    "date": "2025-07-08",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149195074",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149125826",
+    "title": "标签体系设计与管理：从理论基础到智能化实践的综合指南",
+    "date": "2025-07-04",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149125826",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149103484",
+    "title": "LLM大模型命名规则与部署硬件实践手册",
+    "date": "2025-07-03",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149103484",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149102634",
+    "title": "一文速览大模型LLM厂商及生态（25年7月版）系统全景图",
+    "date": "2025-07-03",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149102634",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149031357",
+    "title": "JSON-LD 开发手册",
+    "date": "2025-06-30",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149031357",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "149029393",
+    "title": "序列标注与标记体系：理论方法与实践指南",
+    "date": "2025-06-30",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/149029393",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148961955",
+    "title": "构建证据的系统性知识体系：从理论到实践的完整指南",
+    "date": "2025-06-27",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148961955",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148939277",
+    "title": "DIKW模型：从数据到智慧的认知升华之路",
+    "date": "2025-06-27",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148939277",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148902212",
+    "title": "19.自动化知识图谱构建：理论、方法与实践体系",
+    "date": "2025-06-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148902212",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148895243",
+    "title": "JSON-LD技术深度解析：从语义网理想到现实应用的完整指南（JSON和知识图谱的桥梁）",
+    "date": "2025-06-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148895243",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148880023",
+    "title": "8w字：推荐系统技术体系深度解析：从理论基础到工业实践的完整指南",
+    "date": "2025-06-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148880023",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148873611",
+    "title": "深入理解RAG：大语言模型时代的知识增强架构",
+    "date": "2025-06-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148873611",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148659862",
+    "title": "小白科普向Transformer《Attention Is All You Need》：从原理到实践的完整指南",
+    "date": "2025-06-14",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148659862",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148658861",
+    "title": "《人工智能时代与人类价值》读书简要笔记",
+    "date": "2025-06-14",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148658861",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148483770",
+    "title": "大语言模型提示词（LLM Prompt）工程系统性学习指南：从理论基础到实战应用的完整体系",
+    "date": "2025-06-06",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148483770",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148356855",
+    "title": "声纹技术体系：从理论基础到工程实践的完整技术架构",
+    "date": "2025-05-31",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148356855",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148306621",
+    "title": "数据科学入门必备（Anaconda3安装及使用教程）：Python核心库详解与实践指南",
+    "date": "2025-05-29",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148306621",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148255074",
+    "title": "信息与数据的本质及加密压缩关系深度解析",
+    "date": "2025-05-27",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148255074",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148240513",
+    "title": "信息论基础理论与应用全面指南",
+    "date": "2025-05-26",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148240513",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148177909",
+    "title": "从逻辑视角学习信息论：概念框架与实践指南",
+    "date": "2025-05-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148177909",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148175760",
+    "title": "从逻辑学视角严谨证明数据加密的数学方法与实践",
+    "date": "2025-05-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148175760",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148149708",
+    "title": "边缘计算是什么？逻辑视域下的边缘计算：分布式计算范式的理论基础与逻辑结构分析",
+    "date": "2025-05-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148149708",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148149013",
+    "title": "可信计算是什么？可信逻辑：计算系统安全的形式化分析框架",
+    "date": "2025-05-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148149013",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148098653",
+    "title": "马尔可夫链（AI、ML）：逻辑与数学的交汇",
+    "date": "2025-05-20",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148098653",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148051178",
+    "title": "中国与全球电子取证行业市场报告（公开信息版）",
+    "date": "2025-05-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148051178",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148047028",
+    "title": "电子数据取证（数字取证）技术全面指南：从基础到实践",
+    "date": "2025-05-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148047028",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148045984",
+    "title": "从逻辑学视角探析证据学的理论框架与应用体系；《证据学》大纲参考",
+    "date": "2025-05-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148045984",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148040173",
+    "title": "探讨零知识证明的数学原理与应用",
+    "date": "2025-05-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148040173",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148034803",
+    "title": "18.自动化生成知识图谱的多维度质量评估方法论",
+    "date": "2025-05-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148034803",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "148031355",
+    "title": "为什么哈希加密后破解怎么难？单向函数；密码学的数学原理：从理论到实践",
+    "date": "2025-05-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/148031355",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147490919",
+    "title": "6.第六章：数据分类的技术体系",
+    "date": "2025-04-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147490919",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147483937",
+    "title": "5.第五章：数据分类的方法论",
+    "date": "2025-04-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147483937",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147471445",
+    "title": "4.第四章：数据分类的基本概念",
+    "date": "2025-04-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147471445",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147464042",
+    "title": "3.第三章：数据治理的战略价值",
+    "date": "2025-04-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147464042",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147463637",
+    "title": "2.第二章：政策法规与标准体系",
+    "date": "2025-04-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147463637",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147463281",
+    "title": "1.第一章：数据治理的历史演进",
+    "date": "2025-04-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147463281",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147462792",
+    "title": "0.（新专栏目录）数据分类的艺术：从理论到实践的全面指南",
+    "date": "2025-04-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147462792",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147431798",
+    "title": "（试阅读）深入探讨：如何完美完成标签分类任务（数据治理中分类分级的分类思考）",
+    "date": "2025-04-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147431798",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147426665",
+    "title": "Linux与Anaconda环境部署与管理（运维交接）",
+    "date": "2025-04-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147426665",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147402155",
+    "title": "软件产品开发全生命周期管理概览：从市场调研到运营维护（着重开发版）",
+    "date": "2025-04-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147402155",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147127858",
+    "title": "Vue3+Element Plus如何实现左树右表页面案例：即根据左边的树筛选右侧表功能实现",
+    "date": "2025-04-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147127858",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "147053174",
+    "title": "linux中CosyVoice声音克隆安装教程——TTS文本转语音（数字人组件）",
+    "date": "2025-04-07",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/147053174",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "146951698",
+    "title": "CentOS Linux通过yum安装nginx并代理静态页。（重复的仓库配置 safe thing yum can do is fail. ...a few ways to work “fix“）",
+    "date": "2025-04-02",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/146951698",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "146767796",
+    "title": "9.时间序列分析与预测的理论与实践——Python数据挖掘代码实践",
+    "date": "2025-03-30",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/146767796",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "146715636",
+    "title": "企业级知识库建设：自建与开源产品集成的全景解析 —— 产品经理、CTO 与 CDO 的深度对话",
+    "date": "2025-03-29",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/146715636",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "146611519",
+    "title": "知识库中嵌入模型（Embedding Models）与重排序模型（Re-ranking Models）推荐工具与库",
+    "date": "2025-03-28",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/146611519",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "146541999",
+    "title": "跨语言微服务架构（Java、Python）——“API中台”",
+    "date": "2025-03-26",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/146541999",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "146512227",
+    "title": "8.非监督学习与关系挖掘：聚类分析、客户细分、关联规则与协同过滤的全面解析——Python数据挖掘代码实践",
+    "date": "2025-03-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/146512227",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "146511727",
+    "title": "7.模型选择与评估：构建科学的参数调优与性能评估体系——Python数据挖掘代码实践",
+    "date": "2025-03-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/146511727",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "146480541",
+    "title": "6.监督学习：模型总览表格——Python数据挖掘代码实践",
+    "date": "2025-03-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/146480541",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "146017574",
+    "title": "小白入坑向：Java 全栈系统性学习推荐路线之一",
+    "date": "2025-03-04",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/146017574",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145997342",
+    "title": "小白向：如何使用dify官方市场“ECharts图表生成”工具插件——dify入门案例",
+    "date": "2025-03-03",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145997342",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145996784",
+    "title": "1.大模型开发数学基础回顾及代码示例——构建大模型的理论基石",
+    "date": "2025-03-03",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145996784",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145888788",
+    "title": "构建数据治理闭环：DAMA视角下的全流程实践与价值变现",
+    "date": "2025-02-26",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145888788",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145838893",
+    "title": "《红蓝攻防：构建实战化网络安全防御体系》网络安全技术全景解析",
+    "date": "2025-02-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145838893",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145795211",
+    "title": "极简入门，本地部署dify低代码平台构建AI Agent大模型全流程（使用教程、微案例、配置详解、架构图解析）",
+    "date": "2025-02-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145795211",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145782122",
+    "title": "LangChain:AI大模型开发与分布式系统设计",
+    "date": "2025-02-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145782122",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145764438",
+    "title": "读书笔记:要点提炼《基于大模型的RAG应用开发与优化——构建企业级LLM应用》(严灿平)",
+    "date": "2025-02-20",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145764438",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145738922",
+    "title": "智能体（AI Agent、Deepseek、硅基流动）落地实践Demo——借助大模型生成报表，推动AI赋能企业决策",
+    "date": "2025-02-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145738922",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145713264",
+    "title": "智能体系统（AI Agent System）是什么？——从概念解析到企业数字化转型的全景落地及投资视角",
+    "date": "2025-02-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145713264",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145667007",
+    "title": "领域驱动设计（DDD）是什么？——从理论到实践的全方位解析",
+    "date": "2025-02-16",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145667007",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145666769",
+    "title": "Serverless（无服务器架构）和 FaaS（函数即服务）是什么？全方位解析",
+    "date": "2025-02-16",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145666769",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145658248",
+    "title": "小胡说技书博客（精选、各类书籍推荐）：服务治理、数据治理与安全治理对比；",
+    "date": "2025-02-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145658248",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145657314",
+    "title": "17.企业级知识图谱中的知识库全景解析（基本概念、 5W2H视角知识库、存储格式分类与技术对比、实践路径与架构设计、案例）",
+    "date": "2025-02-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145657314",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145600501",
+    "title": "企业级高并发全链路优化：流量分发、边缘防护与服务治理的整合之道",
+    "date": "2025-02-12",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145600501",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145481574",
+    "title": "数据中台是什么？：架构演进、业务整合、方向演进",
+    "date": "2025-02-06",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145481574",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145358289",
+    "title": "16.知识图谱中的本体、实体、属性与关系：区别与联系",
+    "date": "2025-01-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145358289",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145358013",
+    "title": "15.知识图谱的知识融合概述与实践",
+    "date": "2025-01-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145358013",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145346764",
+    "title": "14.杂谈：领域知识库与知识图谱：概念、关系与重要性",
+    "date": "2025-01-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145346764",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145345512",
+    "title": "13.快速构建领域知识库的完整指南：结合 ChatGPT 与 Python 提升效率",
+    "date": "2025-01-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145345512",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145310771",
+    "title": "Linux 权限体系详解:777、755、644、600、chmod、chown、chgrp 和 umask；SUID、SGID 和 Sticky Bit；ACL (访问控制列表) 是什么？",
+    "date": "2025-01-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145310771",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145303871",
+    "title": "CentOS 7.9(linux) 设置 MySQL 8.0.30 开机启动详解",
+    "date": "2025-01-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145303871",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145286791",
+    "title": "解析若依框架中的认证与日志管理：@RequiresPermissions或@Log是什么？：基于Spring Security与JWT的实践",
+    "date": "2025-01-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145286791",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145242943",
+    "title": "在 CentOS 7.9 上编译 Nginx 并启用 SSL 模块时遇到缺少 OpenSSL 源码的编译问题及解决方案",
+    "date": "2025-01-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145242943",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145116835",
+    "title": "解读若依微服务架构图：架构总览、核心模块解析、消息与任务处理、数据存储与缓存、监控与日志",
+    "date": "2025-01-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145116835",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145105133",
+    "title": "Java中动态绑定（Dynamic Binding）和动态分派（Dynamic Dispatch）区别与联系",
+    "date": "2025-01-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145105133",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145084079",
+    "title": "小白向，超简单！Nginx是什么？Win入门与实践：初识与未来探索",
+    "date": "2025-01-11",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145084079",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145043079",
+    "title": "使用 Flask 和 PaddleOCR 的车牌识别项目安装与打包教程",
+    "date": "2025-01-09",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145043079",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145041351",
+    "title": "《浪潮将至》DeepMind联合创始人、现任微软人工智能的CEO：迎接技术浪潮的挑战与机遇、警钟与指南",
+    "date": "2025-01-09",
+    "category": "",
+    "tags": [],
+    "summary": "《浪潮将至》不仅是一份对未来技术发展的洞察报告，更是一本行动指南，呼吁我们在迎接技术浪潮的同时，以负责任的态度构建更美好的未来。如果您对人工智能和合成生物学的未来充满好奇，或者希望深入了解如何应对技术浪潮中的复杂挑战。",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145041351",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483663&idx=1&sn=6fcd8e5015759684f43a93abf974e15d&chksm=c4783489f30fbd9f1f4233305b1e1fb17180169d58928cde1ea354c27e7ff0d31ede2f6f3483#rd"
+    }
+  },
+  {
+    "id": "145038383",
+    "title": "解析若依 `R.java` 类——ruoyi-common-core",
+    "date": "2025-01-09",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145038383",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145037588",
+    "title": "解读若依框架中的`@Excel` 和 `@Excels` 注解",
+    "date": "2025-01-09",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145037588",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145018817",
+    "title": "解读若依框架中的 @Xss 注解",
+    "date": "2025-01-08",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145018817",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "145019117",
+    "title": "Java 注解详解：RetentionPolicy 与 ElementType",
+    "date": "2025-01-08",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/145019117",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144871316",
+    "title": "Flask是什么？深入解析 Flask 的设计与应用实践",
+    "date": "2025-01-01",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144871316",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144871105",
+    "title": "动态链接库（DLL是什么？）：深入解析与常见问题研究",
+    "date": "2025-01-01",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144871105",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144867449",
+    "title": "Java和Python区别: 应用领域与性能抉择的深度解析",
+    "date": "2025-01-01",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144867449",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "2247483655_1",
+    "title": "CSDN博客目录（151篇）-截止2025-1-1",
+    "date": "2025-01-01",
+    "category": "",
+    "tags": [],
+    "summary": "新的一年​共同进步！！！\r\nCSDN开设了6个专栏，累计发布了151篇博客文章，内容涵盖各类技术主题，供大家免费阅读",
+    "views": "",
+    "platforms": {
+      "csdn": "",
+      "zhihu": "",
+      "wechat": "http://mp.weixin.qq.com/s?__biz=Mzk2NDA0NDAwOQ%3D%3D&mid=2247483655&idx=1&sn=56f26ef45bf1ffd2c030283e7f3a87bd&chksm=c4783481f30fbd9797da7b034944a40a5f30d5d3b3b220ff9e9e443be1b18b7eed03a12248b5#rd"
+    }
+  },
+  {
+    "id": "144835232",
+    "title": "泛域名和二级域名的区别",
+    "date": "2024-12-31",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144835232",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144857431",
+    "title": "常见端口（22、25、53、80、443、110、143、3306、6379、21）和服务的安装与配置手册",
+    "date": "2024-12-31",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144857431",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144637032",
+    "title": "《商业模式2.0图鉴》读书笔记（如何构建创新驱动的商业模式：打破定律与重塑价值）",
+    "date": "2024-12-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144637032",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144636091",
+    "title": "如何从全局视角规划项目与战略决策（“精准接送”案例、技术架构设计与选型、业务逻辑及产品商业模式探讨）",
+    "date": "2024-12-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144636091",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144323415",
+    "title": "常见矩阵分析法(BCG、GE、IE、SPACE、TOWS、优先、战略优先级、安索夫、风险矩阵)：如何通过系统化方法助力战略决策与数据驱动决策",
+    "date": "2024-12-08",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144323415",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144322516",
+    "title": "分析方法（波特五力、价值链、RCA、5W2H、PEST、SWOT）是什么？如何赋能数据驱动决策——深度应用与未来趋势分析方法的价值",
+    "date": "2024-12-08",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144322516",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144316824",
+    "title": "数据建模与设计:战略思维与实践洞察——《DAMA 数据管理知识体系指南》读书笔记 - 第 5 章（概念模型、逻辑模型、物理模型、关系模型、维度模型、非关系模型、 数据建模方法论、全生命周期管理）",
+    "date": "2024-12-07",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144316824",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144270596",
+    "title": "数据架构：以 Zachman 框架为核心的企业数据架构战略解析——《DAMA 数据管理知识体系指南》读书笔记 - 第 4 章（数据架构的战略定位、核心概念、战略实施、未来方向、行动指南、重构企业）",
+    "date": "2024-12-05",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144270596",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144261140",
+    "title": "12.构建领域知识图谱：从概念到实践——知识图谱入门(领域知识图谱的特点、知识图谱构建流程、模式设计、知识获取与整合、图谱构建与存储、构建实践案例、未来思考)",
+    "date": "2024-12-05",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144261140",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144173482",
+    "title": "数据资产管理是什么？为什么重要？核心组成部分（分类分级、登记追踪、质量管理、安全合规）、实施方法、未来趋势、战略意义",
+    "date": "2024-12-01",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144173482",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "144040148",
+    "title": "数据治理：在企业数据管理中的关键角色与实现路径——《DAMA 数据管理知识体系指南》读书笔记- 第 3 章",
+    "date": "2024-11-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/144040148",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143961219",
+    "title": "《DAMA 数据管理知识体系指南》读书笔记 - 第 2 章 数据处理伦理",
+    "date": "2024-11-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143961219",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143934385",
+    "title": "数据管理基础知识解析:12项核心原则、数据管理框架（战略一致性模型、DAMA-DMBOK 框架、DMBOK金字塔模型）——DAMA数据管理知识体系指南》读书笔记 - 第 1 章 数据管理补充版",
+    "date": "2024-11-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143934385",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143894566",
+    "title": "《DAMA数据管理知识体系指南》读书笔记 - 第 1 章 数据管理",
+    "date": "2024-11-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143894566",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143312111",
+    "title": "乐观锁的10种实现方式及其共性分析（基于版本号、时间戳、标记字段、CAS、唯一索引、多字段校验、基于CheckSum校验、ETag和校验码、业务逻辑加锁、版本号+组合字段）",
+    "date": "2024-10-28",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143312111",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143267428",
+    "title": "Java 中的 try-with-resources 语句(基本概念、工作原理、优点、应用场景、如何正确使用 try-with-resources)",
+    "date": "2024-10-27",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143267428",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143267269",
+    "title": "5.当构造器参数较多时，如何使用生成器（建造者模式）提高代码质量——设计模式入门系列",
+    "date": "2024-10-27",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143267269",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143253661",
+    "title": "SQL语句的书写顺序与实际执行顺序的差异，以及如何利用执行顺序优化查询性能",
+    "date": "2024-10-26",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143253661",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143218223",
+    "title": "微服务架构中的数据管理策略、数据一致性问题及分布式数据库挑战(ACID事务与BASE理论、Saga模式与事件溯源的实现)",
+    "date": "2024-10-25",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143218223",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143207009",
+    "title": "MyBatis 如何映射 Enum（使用 EnumTypeHandler、自定义 TypeHandler）",
+    "date": "2024-10-24",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143207009",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143193478",
+    "title": "多租户架构的全景分析(是什么？基本概念、实现策略、资源管理和隔离、数据安全与隔离、性能优化、扩展性与升级、案例研究)",
+    "date": "2024-10-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143193478",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143186267",
+    "title": "以30个面试问题和案例为导向：全面解析 Java Servlet是什么？基本概念、实现原理、生命周期、类结构、请求与响应的处理机制，以及性能优化和安全性管理",
+    "date": "2024-10-23",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143186267",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143163534",
+    "title": "Spring中导致事务传播失效的情况(自调用、方法访问权限、异常处理不当、传播类型选择错误等。在实际开发中，务必确保事务方法正确配置)",
+    "date": "2024-10-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143163534",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143140300",
+    "title": "Java 中的异常处理、常见异常、如何自定义异常类、Checked 和 Unchecked 异常的区别、如何处理数据库事务中的异常",
+    "date": "2024-10-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143140300",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143138249",
+    "title": "Java 中类与类之间的关系、6种对比、 UML 图描述、循环依赖（常见的类之间关系包括依赖、关联、实现、泛化（继承）、组合（复合）和聚合）、PlantUML Integration（IDAE插件）",
+    "date": "2024-10-22",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143138249",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143103955",
+    "title": "Java 中的动态绑定与静态绑定、区别对比表格、应用场景与使用建议",
+    "date": "2024-10-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143103955",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143103468",
+    "title": "Java数组的特性与实现、与其他语言的区别、多维数组的遍历、底层实现及其内存管理",
+    "date": "2024-10-21",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143103468",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143090393",
+    "title": "Java中枚举是什么？枚举（Enumeration, 简称 Enum）是 Java 中一种特殊的数据类型，用于定义一组常量。它提供了一种更具语义的方式来表示和处理固定集合的值，避免了魔法数字或字符串。",
+    "date": "2024-10-20",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143090393",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143090284",
+    "title": "Java中如何优化复杂条件判断的性能(使用 `switch` 代替 `if-else` 链、使用枚举代替多个常量、提前返回或退出、使用查找表代替条件判断、 使用 `Optional` 避免空值检查)",
+    "date": "2024-10-20",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143090284",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143090071",
+    "title": "如何分析 JVM 内存泄漏问题：常见原因、分析 JVM 内存泄漏的工具与步骤、如何避免 JVM 内存泄漏",
+    "date": "2024-10-20",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143090071",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143085282",
+    "title": "Java 引用数据类型详解、字符串的不可变性、如何处理字符串的内存管理、String Pool 及其优化",
+    "date": "2024-10-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143085282",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143085155",
+    "title": "Java 数据基本类型详解（各基本数据类型及其大小、数据类型转换、数据溢出问题、自动装箱与拆箱的影响）",
+    "date": "2024-10-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143085155",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143084595",
+    "title": "如何在 Linux 中设置 JDK 环境变量、使用 Shell 脚本自动配置环境变量、环境变量配置对 Java 应用启动的影响、不同 Linux 发行版的环境变量配置差异",
+    "date": "2024-10-19",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143084595",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143058644",
+    "title": "JVM 的定义、内部工作原理以及不同 JVM 实现的区别， Oracle JVM 、 OpenJ9、GraalVM对比。",
+    "date": "2024-10-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143058644",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143056571",
+    "title": "Axios 的基本使用与 Fetch 的比较、在 Vue 项目中使用 Axios 的最佳实践",
+    "date": "2024-10-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143056571",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143056419",
+    "title": "Vue CLI 与 Vite：构建工具的选择及其在 Vue 项目中的应用(如何在 Vue 2 中使用 Vue CLI 进行项目创建、Vue 3 项目中如何使用 Vite 实现快速开发)",
+    "date": "2024-10-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143056419",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143056245",
+    "title": "深入理解 AJAX、Promise 与 Axios 及其在 Vue 中的最佳实践",
+    "date": "2024-10-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143056245",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143055891",
+    "title": "Vue 3 中的状态管理：深入探讨 Vuex 和 Pinia 的比较与最佳实践",
+    "date": "2024-10-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143055891",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143055735",
+    "title": "深入了解Vue Router：基本用法、重定向、动态路由与路由守卫的性能优化",
+    "date": "2024-10-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143055735",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143055580",
+    "title": "深入探讨Vue 3中的`v-for`与`:key`：列表渲染与性能优化（ 使用`v-for`进行列表渲染、如何有效使用`key`来优化渲染性能、在复杂嵌套结构中使用`v-for`的注意事项）",
+    "date": "2024-10-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143055580",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143048631",
+    "title": "Vue 3中的`v-if` vs `v-show`：如何选择与性能优化(区别、何时选择使用`v-if`而非`v-show`、 `v-if`的性能影响与场景选择)",
+    "date": "2024-10-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143048631",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143030358",
+    "title": "Vue 3为什么移除过滤器功能以及替代方案（如何使用计算属性代替过滤器、讨论使用过滤器的最佳实践、如何在Vue 3中实现类似过滤器的功能）",
+    "date": "2024-10-18",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143030358",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143030035",
+    "title": "深入解析Vue 3中的`ref`与`reactive`（定义及用法、区别、使用场景、响应式系统的底层实现、在Vue 3中使用`shallowReactive`的场景）",
+    "date": "2024-10-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143030035",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "143030116",
+    "title": "深入探讨Vue 3中的计算属性与`watch`(方法的区别、性能优化技、如何使用`watchEffect`、深入分析`watch`的性能和优化、使用`immediate`和`deep`的实际场景)",
+    "date": "2024-10-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/143030116",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142999774",
+    "title": "深入解析`let`、`var`、`const`的区别及其在JavaScript中的最佳实践( `let`、`var`、`const`的区别及使用场景、如何选择合适的声明方式、处理块级作用域与提升)",
+    "date": "2024-10-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142999774",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142999403",
+    "title": "深入解析JavaScript中的箭头函数及其在React中的应用(箭头函数与传统函数的区别、如何在不同上下文中使用箭头函数)",
+    "date": "2024-10-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142999403",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142998546",
+    "title": "深入解析BOM（浏览器对象模型）及浏览器工作原理(BOM组成、进行交互、BOM实现跨域请求、不同浏览器实现BOM的差异、浏览器的基本工作原理、优化页面加载速度、调试性能问题、HTTP/2和HTTP)",
+    "date": "2024-10-17",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142998546",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142990514",
+    "title": "一文通JavaScript事件处理及高级应用(事件冒泡捕获、冒泡与捕获的区别、事件委托)",
+    "date": "2024-10-16",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142990514",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142973643",
+    "title": "深入理解JavaScript数据类型及其特性（类型转换的规则、使用`typeof`和`instanceof`判断类型、原始类型与对象类型的区别）",
+    "date": "2024-10-16",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142973643",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142973375",
+    "title": "深入理解DOM元素获取方法及其应用（获取元素方式比较、如何使用`getElementsByClassName`进行性能优化、Shadow DOM的概念及其应用、`document.all`历史、风险）",
+    "date": "2024-10-16",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142973375",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142973087",
+    "title": "全面解析文档对象模型（DOM）及其操作(DOM的概念与结构、操作DOM节点、描述DOM树的形成过程、用DOMParser解析字符串为DOM对象）",
+    "date": "2024-10-16",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142973087",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142963908",
+    "title": "全面解析Flex弹性布局及其在现代Web开发中的应用（flex的基本用法、flex-grow、flex-shrink的具体使用、如何创建一个响应式的flex布局、深入探讨Flex布局与Grid）",
+    "date": "2024-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142963908",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142963834",
+    "title": "深入理解CSS盒模型及其在布局中的应用（盒模型的组成、 如何计算元素的总宽度和高度、如何处理盒模型的不同实现方式、解释CSS中的`box-sizing`属性及其影响）",
+    "date": "2024-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142963834",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142963724",
+    "title": "深入解析CSS定位及其在Web开发中的应用(各种定位方式及其优缺点、叠加上下文的概念、 z-index的工作原理与层叠上下文的关系、如何处理不同浏览器中定位的兼容性问题)",
+    "date": "2024-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142963724",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142957199",
+    "title": "深入解析浮动布局及其在现代Web开发中的应用与替代(浮动的概念及应用、如何清除浮动、使用Flex布局和Grid布局的区别、使用`float`布局的历史和现状)",
+    "date": "2024-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142957199",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142954807",
+    "title": "深入解析CSS显示模式及其在Web布局中的应用（块级元素与内联元素的区别、如何改变元素的显示模式、实现自定义显示模式、`display: contents；`的作用及影响）",
+    "date": "2024-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142954807",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142952563",
+    "title": "深入解析HTML标签及其在SEO中的优化策略(标签的语义化、`＜template＞`和`＜slot＞`标签的用法)",
+    "date": "2024-10-15",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142952563",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142915185",
+    "title": "JNI（Java Native Interface）和NIO（New Input/Output）是什么？",
+    "date": "2024-10-14",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142915185",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142915120",
+    "title": "Java OOM (OutOfMemoryError) 的产生原因及解决方案（内存泄漏、内存溢出、对象生命周期管理不当、线程过多、第三方库内存问题、GC调优不足）",
+    "date": "2024-10-14",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142915120",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142915011",
+    "title": "java中如何在集合遍历过程中删除元素（5种方法对比、案例、常见的错误及其后果）",
+    "date": "2024-10-14",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142915011",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142900556",
+    "title": "java中Runnable接口是什么？基本概念、工作原理、优点、`Runnable`与`Thread`的对比、与`Callable`接口的对比、实际场景",
+    "date": "2024-10-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142900556",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142900488",
+    "title": "java中Thread类是什么？基本概念、构造方法、生命周期、常用方法、使用场景和实际应用、`Thread`类与`Runnable`接口的对比",
+    "date": "2024-10-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142900488",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142900227",
+    "title": "深入理解 Java 中的 ThreadLocal 机制、工作原理、优缺点分析、在数据库连接管理中的应用、用注意事项",
+    "date": "2024-10-13",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142900227",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142886992",
+    "title": "Jupyter Notebook安装就默认环境，另一个环境无法导入：为什么在 Jupyter Notebook 中显示已安装的内核，但在 conda info --envs 中却看不到该环境？",
+    "date": "2024-10-12",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142886992",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142878159",
+    "title": "事务的传播方式：全面深入解析与Java开发中的应用、Spring中的事务传播类型、对比、选择策略、常见问题与优化",
+    "date": "2024-10-12",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142878159",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142856587",
+    "title": "java中HashMap扩容机制详解（扩容的背景、触发条件、扩容的过程、扩容前后的对比、性能影响、数据重分配策略、优化建议）",
+    "date": "2024-10-11",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142856587",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142831338",
+    "title": "垃圾回收（GC）是什么？深入理解Java（以主要版本为主线）的垃圾回收机制/策略，垃圾回收器的选择、实际案例分析",
+    "date": "2024-10-10",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142831338",
+      "zhihu": "",
+      "wechat": ""
+    }
+  },
+  {
+    "id": "142692268",
+    "title": "知识图谱入门——5：Neo4j Desktop安装和使用手册(小白向：Cypher 查询语言：逐步教程！Neo4j 优缺点分析)",
+    "date": "2024-10-03",
+    "category": "",
+    "tags": [],
+    "summary": "",
+    "views": "",
+    "platforms": {
+      "csdn": "https://blog.csdn.net/hyc010110/article/details/142692268",
+      "zhihu": "",
+      "wechat": ""
+    }
+  }
+]

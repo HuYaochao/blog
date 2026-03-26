@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>小胡说技书</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;500;600&family=ZCOOL+XiaoWei&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/dark.css" />
+  <link rel="stylesheet" href="css/sidebar.css" />
+  <link rel="stylesheet" href="css/topbar.css" />
+  <link rel="stylesheet" href="css/cards.css" />
+</head>
+<body>
+
+<!-- ══════════ SIDEBAR ══════════ -->
+<aside class="sidebar" id="sidebar">
+
+  <button class="toggle-btn" id="toggleBtn" title="收起侧栏">
+    <svg viewBox="0 0 10 10" fill="none">
+      <path d="M7 2L3 5L7 8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </button>
+
+  <div class="sidebar-header">
+    <div class="logo-box" id="logoBox" title="点击展开">
+      <img src="logo.jpg" width="28" height="28" style="border-radius:4px;object-fit:cover;display:block;">
+    </div>
+    <span class="site-title">小胡说技书</span>
+  </div>
+
+  <nav class="nav" id="nav">
+
+    <div class="nav-section-label">BROWSE</div>
+    <a class="nav-item active" data-filter="all" href="#">
+      <svg class="nav-icon" viewBox="0 0 18 18" fill="none">
+        <rect x="1.5" y="1.5" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.4"/>
+        <rect x="10.5" y="1.5" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.4"/>
+        <rect x="1.5" y="10.5" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.4"/>
+        <rect x="10.5" y="10.5" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.4"/>
+      </svg>
+      <span class="nav-label">全部文章</span>
+      <span class="nav-count" id="countAll">0</span>
+    </a>
+
+    <div class="nav-section-label">PLATFORM</div>
+    <a class="nav-item" data-filter="csdn" href="#">
+      <svg class="nav-icon" viewBox="0 0 18 18" fill="none">
+        <circle cx="9" cy="9" r="7" stroke="var(--csdn)" stroke-width="1.4"/>
+        <path d="M6 9a3 3 0 1 0 6 0" stroke="var(--csdn)" stroke-width="1.4" stroke-linecap="round"/>
+      </svg>
+      <span class="nav-label">CSDN</span>
+      <span class="nav-count" id="countCsdn">0</span>
+    </a>
+    <a class="nav-item" data-filter="zhihu" href="#">
+      <svg class="nav-icon" viewBox="0 0 18 18" fill="none">
+        <rect x="2" y="2" width="14" height="14" rx="2" stroke="var(--zhihu)" stroke-width="1.4"/>
+        <path d="M6 6v6M9 6l2 6M9 6l-2 6" stroke="var(--zhihu)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <span class="nav-label">知乎</span>
+      <span class="nav-count" id="countZhihu">0</span>
+    </a>
+    <a class="nav-item" data-filter="wechat" href="#">
+      <svg class="nav-icon" viewBox="0 0 18 18" fill="none">
+        <path d="M6.5 8C4 8 2 6.4 2 4.5S4 1 6.5 1 11 2.6 11 4.5c0 .7-.3 1.4-.8 2" stroke="var(--wechat)" stroke-width="1.3" stroke-linecap="round"/>
+        <path d="M9 10c0-2.2 2.2-4 5-4s5 1.8 5 4-2.2 4-5 4c-.6 0-1.2-.1-1.7-.3L10 15l.3-1.8C9.4 12.4 9 11.2 9 10z" stroke="var(--wechat)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <span class="nav-label">公众号</span>
+      <span class="nav-count" id="countWechat">0</span>
+    </a>
+
+    <div class="nav-section-label">CATEGORY</div>
+    <div id="catNav"><!-- populated from posts.json --></div>
+
+  </nav>
+
+  <!-- 底部统计 -->
+  <div class="sidebar-footer">
+    <div class="footer-stat">
+      <svg viewBox="0 0 12 12" fill="none">
+        <circle cx="6" cy="6" r="5" stroke="currentColor" stroke-width="1.2"/>
+        <path d="M6 3v3l2 1" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      </svg>
+      <span id="lastUpdated">加载中…</span>
+    </div>
+    <div class="footer-stat">
+      <svg viewBox="0 0 12 12" fill="none">
+        <path d="M1 6s2-4 5-4 5 4 5 4-2 4-5 4-5-4-5-4z" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="6" cy="6" r="1.5" stroke="currentColor" stroke-width="1.2"/>
+      </svg>
+      <span id="viewCount">-- 浏览</span>
+    </div>
+  </div>
+
+</aside>
+
+<!-- ══════════ MAIN ══════════ -->
+<div class="main">
+
+  <div class="topbar">
+    <span class="topbar-title" id="topbarTitle">全部文章</span>
+
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 16 16" fill="none">
+        <circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.4"/>
+        <path d="M11 11l3 3" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+      </svg>
+      <input class="search-input" id="searchInput" type="text" placeholder="搜索标题 / 标签…" />
+    </div>
+
+    <div class="filter-group">
+      <button class="filter-btn active" data-sort="newest">最新</button>
+      <button class="filter-btn" data-sort="oldest">最早</button>
+    </div>
+
+    <span class="topbar-stats" id="statsText"></span>
+
+    <!-- 右侧操作按钮 -->
+    <div class="topbar-actions">
+      <!-- GitHub -->
+      <a class="icon-btn" href="https://github.com/HuYaochao" target="_blank" title="GitHub">
+        <svg viewBox="0 0 16 16" fill="currentColor">
+          <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+        </svg>
+      </a>
+      <!-- CSDN -->
+      <a class="icon-btn" href="https://h-y-c.blog.csdn.net" target="_blank" title="CSDN 主页" style="color:var(--csdn)">
+        <svg viewBox="0 0 16 16" fill="none">
+          <circle cx="8" cy="8" r="6.5" stroke="currentColor" stroke-width="1.4"/>
+          <path d="M5.5 8a2.5 2.5 0 1 0 5 0" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+        </svg>
+      </a>
+      <!-- 知乎 -->
+      <a class="icon-btn" href="https://www.zhihu.com/people/huyaochao" target="_blank" title="知乎主页" style="color:var(--zhihu)">
+        <svg viewBox="0 0 16 16" fill="none">
+          <rect x="1.5" y="1.5" width="13" height="13" rx="2" stroke="currentColor" stroke-width="1.4"/>
+          <path d="M5 5v6M8 5l1.5 6M8 5L6.5 11" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+      <!-- 微信 -->
+      <div class="wechat-wrap">
+        <button class="icon-btn" id="wechatBtn" title="微信公众号" style="color:var(--wechat)">
+          <svg viewBox="0 0 16 16" fill="none">
+            <path d="M5.5 7C3.5 7 2 5.8 2 4.2S3.5 1.5 5.5 1.5 9 2.7 9 4.2c0 .6-.2 1.1-.6 1.5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+            <path d="M8 9c0-1.9 1.8-3.5 4-3.5s4 1.6 4 3.5-1.8 3.5-4 3.5c-.5 0-1-.1-1.4-.3L8.5 13l.2-1.6C8.3 10.8 8 9.9 8 9z" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        <div class="wechat-popup" id="wechatPopup">
+          <img src="扫码_搜索联合传播样式-标准色版.png" alt="微信公众号二维码" />
+          <p>扫码关注微信公众号</p>
+        </div>
+      </div>
+      <!-- Dark mode -->
+      <button class="icon-btn" id="darkToggle" title="切换深色模式">
+        <svg class="icon-moon" viewBox="0 0 16 16" fill="currentColor">
+          <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+        </svg>
+        <svg class="icon-sun" viewBox="0 0 16 16" fill="currentColor">
+          <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="notice-bar" id="noticeBar">
+    <svg viewBox="0 0 14 14" fill="none" style="width:13px;height:13px;flex-shrink:0;opacity:.7">
+      <circle cx="7" cy="7" r="6" stroke="currentColor" stroke-width="1.3"/>
+      <path d="M7 5v4M7 10.5v.5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+    </svg>
+    <span>本页面仅做备份，更新不及时且可能存在渲染问题，建议前往各平台浏览原文</span>
+    <button class="notice-close" onclick="document.getElementById('noticeBar').style.display='none'" title="关闭">×</button>
+  </div>
+
+  <div class="content">
+    <div class="posts-grid" id="postsGrid">
+      <div class="empty-state">加载中…</div>
+    </div>
+    <div class="pagination" id="pagination"></div>
+  </div>
+
+</div>
+
+<script>
+// ── Dark mode (runs immediately, no data needed) ──────────────────────────
+if (localStorage.getItem('dark') === '1') document.body.classList.add('dark');
+document.getElementById('darkToggle').addEventListener('click', () => {
+  const isDark = document.body.classList.toggle('dark');
+  localStorage.setItem('dark', isDark ? '1' : '0');
+});
+
+// ── Sidebar toggle ────────────────────────────────────────────────────────
+document.getElementById('toggleBtn').addEventListener('click', () => {
+  document.getElementById('sidebar').classList.toggle('collapsed');
+});
+document.getElementById('logoBox').addEventListener('click', () => {
+  const sb = document.getElementById('sidebar');
+  if (sb.classList.contains('collapsed')) sb.classList.remove('collapsed');
+});
+
+// ── State ─────────────────────────────────────────────────────────────────
+let POSTS = [];
+let state = { filter: 'all', sort: 'newest', search: '', page: 1, perPage: 12 };
+
+// ── Stats (called after data loads) ──────────────────────────────────────
+function initStats() {
+  const latest = POSTS.map(p => p.date).filter(Boolean).sort().reverse()[0] || '—';
+  document.getElementById('lastUpdated').textContent = latest + ' 更新';
+  const key = 'blog_views';
+  const views = (parseInt(localStorage.getItem(key) || '0')) + 1;
+  localStorage.setItem(key, views);
+  document.getElementById('viewCount').textContent = views.toLocaleString() + ' 浏览';
+}
+
+// ── Category nav (built from data) ───────────────────────────────────────
+const CAT_ICON = `<svg class="nav-icon" viewBox="0 0 18 18" fill="none">
+  <path d="M4 14l4-4 3 3 5-7" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>`;
+
+function buildCatNav() {
+  const cats = [...new Set(POSTS.map(p => p.category).filter(Boolean))].sort();
+  const container = document.getElementById('catNav');
+  container.innerHTML = cats.map(c => `
+    <a class="nav-item" data-filter="cat-${c}" href="#">
+      ${CAT_ICON}
+      <span class="nav-label">${c}</span>
+      <span class="nav-count">${POSTS.filter(p=>p.category===c).length}</span>
+    </a>`).join('');
+}
+
+// ── Filter / sort ─────────────────────────────────────────────────────────
+function getFiltered() {
+  let posts = [...POSTS];
+  if (state.search) {
+    const q = state.search.toLowerCase();
+    posts = posts.filter(p =>
+      p.title.toLowerCase().includes(q) ||
+      (p.summary || '').toLowerCase().includes(q) ||
+      (p.tags || []).some(t => t.toLowerCase().includes(q))
+    );
+  }
+  if (state.filter === 'csdn')   posts = posts.filter(p => p.platforms.csdn);
+  if (state.filter === 'zhihu')  posts = posts.filter(p => p.platforms.zhihu);
+  if (state.filter === 'wechat') posts = posts.filter(p => p.platforms.wechat);
+  if (state.filter.startsWith('cat-')) {
+    posts = posts.filter(p => p.category === state.filter.slice(4));
+  }
+  posts.sort((a, b) => {
+    const d = new Date(b.date) - new Date(a.date);
+    return state.sort === 'newest' ? d : -d;
+  });
+  return posts;
+}
+
+// ── Render ────────────────────────────────────────────────────────────────
+function renderPosts() {
+  const grid = document.getElementById('postsGrid');
+  const pg   = document.getElementById('pagination');
+  const filtered = getFiltered();
+  const total = filtered.length;
+  const totalPages = Math.ceil(total / state.perPage) || 1;
+  state.page = Math.min(state.page, totalPages);
+  const slice = filtered.slice((state.page - 1) * state.perPage, state.page * state.perPage);
+
+  document.getElementById('statsText').textContent  = `共 ${total} 篇`;
+  document.getElementById('countAll').textContent    = POSTS.length;
+  document.getElementById('countCsdn').textContent   = POSTS.filter(p => p.platforms.csdn).length;
+  document.getElementById('countZhihu').textContent  = POSTS.filter(p => p.platforms.zhihu).length;
+  document.getElementById('countWechat').textContent = POSTS.filter(p => p.platforms.wechat).length;
+
+  if (!slice.length) {
+    grid.innerHTML = '<div class="empty-state">没有找到匹配的文章</div>';
+    pg.innerHTML = '';
+    return;
+  }
+
+  grid.innerHTML = slice.map(p => `
+    <div class="post-card">
+      <div class="card-meta">
+        <span class="card-date">${p.date || ''}</span>
+        ${p.category ? `<span class="card-category">${p.category}</span>` : ''}
+        ${p.views ? `<span class="card-views">${Number(p.views).toLocaleString()} 阅</span>` : ''}
+      </div>
+      <div class="card-title">${p.title}</div>
+      ${p.summary ? `<p class="card-summary">${p.summary}</p>` : ''}
+      <div class="card-platforms">
+        ${p.platforms.csdn   ? `<a class="platform-badge badge-csdn"   href="${p.platforms.csdn}"   target="_blank" rel="noopener"><span class="badge-dot"></span>CSDN</a>`   : ''}
+        ${p.platforms.zhihu  ? `<a class="platform-badge badge-zhihu"  href="${p.platforms.zhihu}"  target="_blank" rel="noopener"><span class="badge-dot"></span>知乎</a>`  : ''}
+        ${p.platforms.wechat ? `<a class="platform-badge badge-wechat" href="${p.platforms.wechat}" target="_blank" rel="noopener"><span class="badge-dot"></span>公众号</a>` : ''}
+        <a class="btn-local" href="post.html?id=${p.id}&platform=${p.platforms.csdn ? 'csdn' : p.platforms.zhihu ? 'zhihu' : 'wechat'}">
+          <svg viewBox="0 0 12 12" fill="none"><rect x="1" y="1" width="10" height="10" rx="1.5" stroke="currentColor" stroke-width="1.2"/><path d="M3 4h6M3 6h6M3 8h4" stroke="currentColor" stroke-width="1.1" stroke-linecap="round"/></svg>
+          本页
+        </a>
+      </div>
+      ${p.tags && p.tags.length ? `<div class="card-tags">${p.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>` : ''}
+    </div>`).join('');
+
+  if (totalPages <= 1) { pg.innerHTML = ''; return; }
+  // Smart pagination: first, ...ellipsis, current±2, ...ellipsis, last
+  const cur = state.page;
+  const pages = new Set([1, totalPages]);
+  for (let i = Math.max(2, cur - 2); i <= Math.min(totalPages - 1, cur + 2); i++) pages.add(i);
+  const sorted = [...pages].sort((a, b) => a - b);
+  const btns = [];
+  // prev arrow
+  btns.push(`<button class="page-btn page-arrow${cur === 1 ? ' disabled' : ''}" data-page="${cur - 1}">‹</button>`);
+  let prev = 0;
+  for (const p of sorted) {
+    if (p - prev > 1) btns.push(`<span class="page-ellipsis">…</span>`);
+    btns.push(`<button class="page-btn${p === cur ? ' active' : ''}" data-page="${p}">${p}</button>`);
+    prev = p;
+  }
+  // next arrow
+  btns.push(`<button class="page-btn page-arrow${cur === totalPages ? ' disabled' : ''}" data-page="${cur + 1}">›</button>`);
+  pg.innerHTML = btns.join('');
+  pg.querySelectorAll('.page-btn:not(.disabled)').forEach(btn => btn.addEventListener('click', () => {
+    const p = +btn.dataset.page;
+    if (p < 1 || p > totalPages) return;
+    state.page = p;
+    renderPosts();
+    document.querySelector('.content').scrollTop = 0;
+  }));
+}
+
+// ── Event listeners ───────────────────────────────────────────────────────
+document.getElementById('nav').addEventListener('click', e => {
+  const item = e.target.closest('.nav-item');
+  if (!item) return;
+  e.preventDefault();
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+  item.classList.add('active');
+  state.filter = item.dataset.filter;
+  state.page = 1;
+  const labels = { all: '全部文章', csdn: 'CSDN', zhihu: '知乎', wechat: '公众号' };
+  document.getElementById('topbarTitle').textContent =
+    labels[state.filter] || state.filter.replace('cat-', '');
+  renderPosts();
+});
+
+let searchTimer;
+document.getElementById('searchInput').addEventListener('input', e => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    state.search = e.target.value.trim();
+    state.page = 1;
+    renderPosts();
+  }, 200);
+});
+
+document.querySelectorAll('.filter-btn[data-sort]').forEach(btn => btn.addEventListener('click', () => {
+  document.querySelectorAll('.filter-btn[data-sort]').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  state.sort = btn.dataset.sort;
+  renderPosts();
+}));
+
+// ── WeChat QR popup ───────────────────────────────────────────────────────
+const wechatBtn   = document.getElementById('wechatBtn');
+const wechatPopup = document.getElementById('wechatPopup');
+wechatBtn.addEventListener('click', e => {
+  e.stopPropagation();
+  wechatPopup.classList.toggle('show');
+});
+document.addEventListener('click', () => wechatPopup.classList.remove('show'));
+wechatPopup.addEventListener('click', e => e.stopPropagation());
+
+// ── Load data ─────────────────────────────────────────────────────────────
+fetch('posts.json')
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    POSTS = data;
+    initStats();
+    buildCatNav();
+    renderPosts();
+  })
+  .catch(err => {
+    document.getElementById('postsGrid').innerHTML =
+      `<div class="empty-state">⚠️ 无法加载 posts.json（${err.message}）<br>请先运行 <code>python scripts/build.py</code></div>`;
+    document.getElementById('lastUpdated').textContent = '未加载';
+  });
+</script>
+</body>
+</html>

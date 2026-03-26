@@ -1,0 +1,161 @@
+/* ── topbar ─────────────────────────────────────────────────────────────── */
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 20px;
+  height: 52px;
+  background: var(--paper);
+  border-bottom: 1.5px solid var(--paper-shadow);
+  box-shadow: 0 2px 8px rgba(0,0,0,.05);
+  position: sticky; top: 0; z-index: 50;
+}
+
+.topbar-title {
+  font-family: var(--font-title);
+  font-size: 17px;
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+/* ── search ─────────────────────────────────────────────────────────────── */
+.search-wrap {
+  position: relative;
+  flex: 1;
+  max-width: 280px;
+}
+.search-icon {
+  position: absolute; left: 9px; top: 50%; transform: translateY(-50%);
+  width: 14px; height: 14px;
+  color: var(--ink-faint); pointer-events: none;
+}
+.search-input {
+  width: 100%;
+  padding: 6px 10px 6px 30px;
+  background: var(--paper-dark);
+  border: 1.5px solid var(--paper-shadow);
+  border-radius: 3px;
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--ink);
+  outline: none;
+  transition: border-color .15s;
+  box-sizing: border-box;
+}
+.search-input:focus { border-color: var(--accent-light); }
+.search-input::placeholder { color: var(--ink-faint); }
+
+/* ── filter buttons ─────────────────────────────────────────────────────── */
+.filter-group {
+  display: flex; gap: 4px;
+}
+.filter-btn {
+  padding: 4px 11px;
+  border: 1.5px solid var(--paper-shadow);
+  background: var(--paper);
+  border-radius: 3px;
+  font-family: var(--font-body);
+  font-size: 12px;
+  color: var(--ink-light);
+  cursor: pointer;
+  transition: all .15s;
+  white-space: nowrap;
+}
+.filter-btn:hover { background: var(--paper-dark); color: var(--ink); }
+.filter-btn.active {
+  background: var(--accent); border-color: var(--accent);
+  color: #fff;
+}
+
+.topbar-stats {
+  font-size: 12px;
+  color: var(--ink-faint);
+  white-space: nowrap;
+}
+
+/* ── right action buttons ───────────────────────────────────────────────── */
+.topbar-actions {
+  display: flex; align-items: center; gap: 4px;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+.icon-btn {
+  width: 32px; height: 32px;
+  display: flex; align-items: center; justify-content: center;
+  border: none; background: none; cursor: pointer;
+  color: var(--ink-light);
+  border-radius: 3px;
+  transition: background .15s, color .15s;
+  padding: 0;
+  text-decoration: none;
+}
+.icon-btn svg { width: 16px; height: 16px; }
+.icon-btn:hover { background: var(--paper-dark); color: var(--ink); }
+
+/* ── wechat popup ───────────────────────────────────────────────────────── */
+.wechat-wrap {
+  position: relative;
+}
+
+.wechat-popup {
+  display: none;
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  background: var(--paper);
+  border: 1.5px solid var(--paper-shadow);
+  border-radius: 4px;
+  box-shadow: 4px 4px 0 var(--paper-shadow), 0 8px 24px rgba(0,0,0,.12);
+  padding: 16px 16px 12px;
+  text-align: center;
+  width: 380px;
+  z-index: 200;
+}
+.wechat-popup.show { display: block; }
+.wechat-popup::before {
+  content: '';
+  position: absolute;
+  top: -7px; right: 10px;
+  width: 12px; height: 12px;
+  background: var(--paper);
+  border-left: 1.5px solid var(--paper-shadow);
+  border-top: 1.5px solid var(--paper-shadow);
+  transform: rotate(45deg);
+}
+.wechat-popup img {
+  width: 100%; height: auto;
+  display: block; margin: 0 auto 8px;
+  border-radius: 3px;
+}
+.wechat-popup p {
+  font-size: 12px;
+  color: var(--ink-faint);
+  margin: 0;
+  font-family: var(--font-body);
+}
+
+/* ── notice bar ─────────────────────────────────────────────────────────── */
+.notice-bar {
+  display: flex; align-items: center; gap: 8px;
+  padding: 7px 20px;
+  background: var(--paper-dark);
+  border-bottom: 1px dashed var(--paper-shadow);
+  font-size: 12px;
+  color: var(--ink-faint);
+  font-family: var(--font-body);
+}
+.notice-bar span { flex: 1; }
+.notice-close {
+  background: none; border: none; cursor: pointer;
+  color: var(--ink-faint); font-size: 16px; line-height: 1;
+  padding: 0 2px;
+  transition: color .15s;
+}
+.notice-close:hover { color: var(--ink); }
+
+/* ── dark: sun/moon toggle ──────────────────────────────────────────────── */
+.icon-sun  { display: none; }
+.icon-moon { display: block; }
+body.dark .icon-sun  { display: block; }
+body.dark .icon-moon { display: none; }

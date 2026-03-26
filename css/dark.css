@@ -1,0 +1,25 @@
+/* ── 深色模式变量 ── */
+body.dark {
+  --paper:        #1e1a13;
+  --paper-dark:   #151108;
+  --paper-shadow: #3d3020;
+  --ink:          #e8dcc8;
+  --ink-light:    #b8a888;
+  --ink-faint:    #7a6858;
+  --accent:       #c47a3a;
+  --accent-light: #d4903a;
+}
+
+body.dark .post-card {
+  background-image: repeating-linear-gradient(
+    0deg, transparent, transparent 23px,
+    rgba(80,60,20,.15) 23px, rgba(80,60,20,.15) 24px
+  );
+}
+
+body.dark .sidebar {
+  background-image: repeating-linear-gradient(
+    0deg, transparent, transparent 28px,
+    rgba(80,60,20,.12) 28px, rgba(80,60,20,.12) 29px
+  );
+}
